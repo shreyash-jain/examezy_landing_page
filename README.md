@@ -15,9 +15,17 @@ Static Next.js 15 + Tailwind 4 export, the same stack as evalezy.com, telleo.ai 
 
 The Pages project is **`examezy`** on the Vidyayatan Cloudflare account, created by direct upload:
 
-    pnpm build && pnpm dlx wrangler@4 pages deploy out --project-name examezy --branch main
+    pnpm build
+    cd /tmp && pnpm dlx wrangler@4 pages deploy /path/to/examezy_landing_page/out --project-name examezy --branch main
 
-Custom domains `examezy.com` and `www.examezy.com` are attached to the project. To deploy on every push instead,
+Live at https://examezy.pages.dev. Custom domains `examezy.com` and `www.examezy.com` are attached to the project but
+need DNS: Workers & Pages → `examezy` → Custom domains → **Activate domain** on each (Cloudflare adds the proxied
+CNAME to `examezy.pages.dev`), or add those two CNAME records in DNS yourself. Wrangler's OAuth login has no DNS
+permission, so this step can't be scripted from here.
+
+Run `wrangler pages deploy` from **outside** the repo (or with an explicit `out` path from another directory): from
+inside it, wrangler 4.15x detects Next.js and rewrites package.json, next.config.ts and the lockfile for OpenNext
+Workers (it happened once on 15 Oct 2026 and was reverted). To deploy on every push instead,
 create a Git-connected Pages project in the dashboard (Framework preset **Next.js (Static HTML Export)**, build
 `pnpm build`, output `out`, env `NODE_VERSION=20`) and move the domains to it (a direct-upload project can't be
 switched to Git later).
