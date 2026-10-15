@@ -1,0 +1,293 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-grotesk), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jb), ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Ink: midnight navy, the colour of an exam-hall answer sheet's printed grid. */
+  --color-ink: #0a1024;
+  --color-ink-2: #121a36;
+  --color-ink-3: #1c2650;
+  --color-ink-4: #36416e;
+  /* Paper and hairlines (cool, like an OMR sheet). */
+  --color-paper: #f6f7fb;
+  --color-paper-2: #eef0f7;
+  --color-paper-3: #e1e5f0;
+  --color-line: #e3e6ef;
+  /* Cobalt: the brand colour. Text-safe on white = 700. */
+  --color-cobalt-50: #eef2ff;
+  --color-cobalt-100: #dde4ff;
+  --color-cobalt-200: #b9c7ff;
+  --color-cobalt-300: #8fa5ff;
+  --color-cobalt-400: #5b7bff;
+  --color-cobalt: #2b50ff;
+  --color-cobalt-600: #1f3fe0;
+  --color-cobalt-700: #1a34b8;
+  /* Marigold: the filled answer bubble, highlights. */
+  --color-gold-50: #fff7e1;
+  --color-gold-100: #ffecb8;
+  --color-gold: #ffb31a;
+  --color-gold-600: #e09400;
+  --color-gold-700: #8a5a00;
+  /* Status: right, wrong, review. */
+  --color-ok: #0f9a5c;
+  --color-ok-50: #e7f7ef;
+  --color-bad: #e5383b;
+  --color-bad-50: #fdecec;
+  --color-bad-700: #b42318;
+  --color-warn: #b7791f;
+  --color-warn-50: #fdf6e7;
+  --color-violet: #7c4dff;
+  --color-violet-50: #f2edff;
+
+  --animate-rise: rise 0.6s ease-out both;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-pulse-dot: pulse-dot 1.6s ease-out infinite;
+  --animate-marquee: marquee 90s linear infinite;
+  --animate-marquee-rev: marquee 90s linear infinite reverse;
+  --animate-fill: fill 0.5s cubic-bezier(0.3, 1.4, 0.5, 1) both;
+  --animate-scan: scan 3.2s ease-in-out infinite;
+  --animate-blink: blink 1.2s steps(2, start) infinite;
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  @keyframes pulse-dot {
+    0% { transform: scale(0.8); opacity: 0.7; }
+    100% { transform: scale(2.4); opacity: 0; }
+  }
+  @keyframes fill {
+    from { transform: scale(0.2); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+  }
+  @keyframes scan {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(var(--scan-distance, 120px)); }
+  }
+  @keyframes blink {
+    to { visibility: hidden; }
+  }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background: var(--color-gold);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-cobalt);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  [id] {
+    scroll-margin-top: 96px;
+  }
+  /* Grid items default to min-width:auto, so a wide child (code, tables) can push a
+     column past the phone viewport; overflow-hidden sections then clip it silently. */
+  .grid > * {
+    min-width: 0;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .wrap {
+    width: 100%;
+    max-width: 80rem;
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+  @media (min-width: 768px) {
+    .wrap { padding-inline: 2rem; }
+  }
+
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-cobalt-700);
+  }
+  /* The eyebrow's own little answer bubble. */
+  .eyebrow::before {
+    content: "";
+    width: 0.62rem;
+    height: 0.62rem;
+    border-radius: 999px;
+    background: var(--color-gold);
+    box-shadow: 0 0 0 2px var(--color-paper), 0 0 0 3.5px currentColor;
+    flex-shrink: 0;
+  }
+  .eyebrow-dark { color: var(--color-cobalt-200); }
+  .eyebrow-dark::before { box-shadow: 0 0 0 2px var(--color-ink), 0 0 0 3.5px currentColor; }
+
+  .h-display {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.035em;
+    line-height: 1.02;
+  }
+  .h-section {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1.06;
+    font-size: clamp(1.9rem, 1.2rem + 2.4vw, 3.1rem);
+  }
+  .h-card {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.015em;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    padding: 0.82rem 1.35rem;
+    font-weight: 650;
+    font-size: 0.95rem;
+    line-height: 1;
+    transition: transform 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    white-space: nowrap;
+  }
+  .btn:active { transform: translateY(1px); }
+  .btn-lg { padding: 1rem 1.6rem; font-size: 1rem; }
+  .btn-primary {
+    background: var(--color-cobalt);
+    color: #fff;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25) inset, 0 10px 24px -12px rgba(43, 80, 255, 0.9);
+  }
+  .btn-primary:hover { background: var(--color-cobalt-600); }
+  .btn-gold {
+    background: var(--color-gold);
+    color: var(--color-ink);
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset, 0 10px 24px -12px rgba(224, 148, 0, 0.9);
+  }
+  .btn-gold:hover { background: #ffc040; }
+  .btn-ink { background: var(--color-ink); color: #fff; }
+  .btn-ink:hover { background: var(--color-ink-3); }
+  .btn-outline {
+    background: #fff;
+    color: var(--color-ink);
+    border: 1px solid var(--color-paper-3);
+    box-shadow: 0 1px 2px rgba(10, 16, 36, 0.06);
+  }
+  .btn-outline:hover { border-color: var(--color-ink); }
+  .btn-ghost-dark {
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    background: rgba(255, 255, 255, 0.04);
+  }
+  .btn-ghost-dark:hover { border-color: rgba(255, 255, 255, 0.6); background: rgba(255, 255, 255, 0.08); }
+
+  .card {
+    background: #fff;
+    border: 1px solid var(--color-line);
+    border-radius: 1.25rem;
+  }
+  .card-hover { transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease; }
+  .card-hover:hover {
+    transform: translateY(-2px);
+    border-color: var(--color-cobalt-200);
+    box-shadow: 0 24px 48px -32px rgba(26, 52, 184, 0.45);
+  }
+  .shadow-sheet {
+    box-shadow: 0 1px 2px rgba(10, 16, 36, 0.08), 0 30px 60px -30px rgba(10, 16, 36, 0.45);
+  }
+
+  /* OMR answer-sheet texture: faint rows of empty bubbles. The site's signature. */
+  .omr {
+    background-image: radial-gradient(circle at center, transparent 5px, rgba(43, 80, 255, 0.10) 5.5px, rgba(43, 80, 255, 0.10) 6.5px, transparent 7px);
+    background-size: 28px 28px;
+  }
+  .omr-dark {
+    background-image: radial-gradient(circle at center, transparent 5px, rgba(255, 255, 255, 0.08) 5.5px, rgba(255, 255, 255, 0.08) 6.5px, transparent 7px);
+    background-size: 28px 28px;
+  }
+  .grid-faint {
+    background-image:
+      linear-gradient(rgba(43, 80, 255, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(43, 80, 255, 0.05) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+  .fade-mask { mask-image: radial-gradient(ellipse at center, #000 30%, transparent 75%); }
+
+  /* Highlighter swipe behind a word. */
+  .marker {
+    background: linear-gradient(104deg, transparent 0.4em, rgba(255, 179, 26, 0.55) 0.5em, rgba(255, 179, 26, 0.45) 92%, transparent 100%);
+    border-radius: 0.2em;
+    padding: 0 0.12em;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+
+  /* An answer bubble: <span class="bubble">A</span>, add .bubble-on to fill it. */
+  .bubble {
+    display: inline-grid;
+    place-items: center;
+    width: 1.6rem;
+    height: 1.6rem;
+    border-radius: 999px;
+    border: 1.5px solid var(--color-ink-4);
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--color-ink-4);
+    flex-shrink: 0;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+  .bubble-on { background: var(--color-ink); border-color: var(--color-ink); color: #fff; }
+  .bubble-ok { background: var(--color-ok); border-color: var(--color-ok); color: #fff; }
+  .bubble-bad { background: var(--color-bad); border-color: var(--color-bad); color: #fff; }
+
+  .code {
+    font-family: var(--font-mono);
+    font-size: 0.82rem;
+    line-height: 1.7;
+  }
+
+  .prose-ex p { margin-top: 1rem; line-height: 1.75; color: #334155; font-size: 1.06rem; }
+  .prose-ex h2 { margin-top: 2.6rem; font-family: var(--font-display); font-weight: 700; font-size: 1.7rem; letter-spacing: -0.02em; color: var(--color-ink); line-height: 1.15; }
+  .prose-ex h3 { margin-top: 1.8rem; font-family: var(--font-display); font-weight: 700; font-size: 1.22rem; color: var(--color-ink); }
+  .prose-ex ul { margin-top: 1rem; padding-left: 1.25rem; list-style: disc; color: #334155; line-height: 1.75; }
+  .prose-ex ol { margin-top: 1rem; padding-left: 1.25rem; list-style: decimal; color: #334155; line-height: 1.75; }
+  .prose-ex li { margin-top: 0.4rem; font-size: 1.04rem; }
+  .prose-ex a { color: var(--color-cobalt-700); text-decoration: underline; text-underline-offset: 3px; }
+  .prose-ex strong { color: var(--color-ink); }
+  .prose-ex table { width: 100%; margin-top: 1.2rem; border-collapse: collapse; font-size: 0.95rem; }
+  .prose-ex th, .prose-ex td { border: 1px solid var(--color-line); padding: 0.6rem 0.75rem; text-align: left; vertical-align: top; }
+  .prose-ex th { background: var(--color-paper-2); font-weight: 700; color: var(--color-ink); }
+}

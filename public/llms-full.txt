@@ -1,0 +1,4888 @@
+# Examezy — full site text
+
+Generated 2026-10-15 from https://examezy.com. Short summary: https://examezy.com/llms.txt
+
+
+---
+
+# Examezy: Online Exam Software with AI Proctoring and Evaluation
+URL: https://examezy.com/
+
+Exams & assessments, from the team behind Vacademy
+
+# Every exam, online or on paper , run and reported in one place.
+Create the paper, proctor the exam, mark it automatically, on screen or with AI, and give every student their rank, percentile and a report worth reading.
+Book a demo Try marking a question
+
+- Tested with 1,000 simultaneous test-takers
+- Camera proctoring without video streaming
+- Teachers approve every AI mark
+- Paper exams supported, not just online
+
+Physics Mock 07 · Section A
+01:24:37
+Physics Chemistry Maths
+Question 14 +4 / −1
+A ball is thrown vertically upward with speed 20 m/s. Taking g = 10 m/s², the maximum height it reaches is:
+
+- A 10 m
+- B 20 m
+- C 40 m
+- D 200 m
+Mark for review Save & next
+
+Palette
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Answered 9
+For review 2
+Not visited 9
+
+2 faces detected Flag 2 of 5 · snapshot saved
+38 copies AI-checked Waiting for teacher review
+Released 2 min after the window Rank 14 · 98.9 %ile
+
+Examezy is built by the team behind Vacademy, the learning and assessment platform used by schools, coaching institutes, online academies and training institutes across 5 countries.
+- SSDC
+- Code Circle
+- Aanandham
+- The 7Cs
+- VET Education
+- Edu Stream
+- Five SAP
+- Jump Start
+- Read on Rent
+- StemX
+- Enark Uplift
+- Shiksha Nation
+- Dzumo
+
+- Agilore Global
+- Be Bright
+- Brahm Varchas
+- Dumbee
+- Elevate
+- HCCA
+- The Learning Bridge
+- Oui Académie
+- Sreedhar's TTS
+- Smart AI Academy
+- Suchbliss
+- Vasco Maritime Career Institute
+
+Pause logos
+
+The whole exam, one platform
+
+## From blank paper to report card , in seven steps.
+Most institutes stitch together a form tool, a spreadsheet, a WhatsApp group and a weekend of checking. Click through the exam lifecycle on Examezy instead.
+
+1 Create 2 Schedule 3 Invite 4 Proctor 5 Evaluate 6 Publish 7 Analyse
+Step 1 of 7 · Create
+
+### Build the paper in minutes
+Pick from your question bank, import a Word file, or let AI draft a balanced paper from your own books.
+
+- 7 question types + passages
+- Sections, marks, negative marking
+- AI generation with source pages
+Learn more Next: Schedule
+
+Create assessment · Half-yearly Physics
+
+- Basic info
+- 2 Sections & questions
+- 3 Participants
+- 4 Access
+Section A · Objective 40 min · 20 Q · +2 / −0.5
+Negative marking Random order Section timer Cutoff marks
+
+Section B · Long answer 80 min · 6 Q · AI checking on
+
+Duration per section · auto-submit at time-out
+
+Platform
+
+## Built for the exams that matter.
+Every part of the exam, done properly, so nothing needs a workaround.
+
+See every feature
+
+### AI proctoring
+Full screen, tab-switch auto-submit and copy blocking on every online test. Camera checks run on the candidate's device, so nothing is streamed.
+Explore
+Proctoring · Riya Kapoor · attempt review
+Flags 2 / 5
+1 face on device
+Faces are counted on the candidate's device. Snapshot every 60 s and at each flag. No video.
+
+- 00:00 Camera check-in
+- 12:41 Tab switch (1 of 3)
+- 27:09 No face for 6 s
+- 27:15 Face back in view
+- 41:52 2 faces detected
+
+Full screen enforced Copy & paste blocked Auto-submit after 5 flags
+
+### Question types
+MCQ, multi-correct, true/false, numeric, one word, long answer, coding and passage-based questions in one paper.
+Explore
+
+### AI question paper generator
+Plan by chapter weightage, generate from your own books, and see the source page behind every question.
+Explore
+
+### Results & analytics
+Rank, percentile, question insights, AI diagnostics and every student's report PDF in one ZIP.
+Explore
+
+### Coding tests
+An editor inside the exam, six languages, and marks from hidden test cases.
+Explore
+
+### Open registration tests
+Scholarship and entrance tests with a public page, your own form fields, OTP-verified candidates and automated reminders. Every test-taker becomes a lead.
+Explore
+learn.yourinstitute.com/register?code=STAR-2026
+Open · 1,946 registered
+Star Scholarship Test 2026
+Sunday 9 Nov · 10:00–13:00 · Classes 8–12
+Full name
+Meera Joshi
+
+Class
+Class 10
+
+School
+St. Xavier's, Pune
+
+Target exam
+JEE
+
+Verify your phone
+OTP sent to +91 98•••• 4410
+4 8 1 9
+
+- Registration closes 8 Nov
+- Reminder on WhatsApp
+- Rank list after the test
+Register
+
+Try it
+
+## Go on, answer one.
+This is how marking feels for your candidates: submit, and the mark appears with the section's negative marking already applied and the explanation right there. For a whole paper, that means results the second the window closes.
+
+- MCQ, numeric, true/false, one word and coding mark themselves
+- Long answers go to teachers, or to AI as a draft
+- Fix a wrong key later and re-evaluate in one click
+
+MCQ Numeric True / false
++4 / −1
+Which gas do plants mainly release during photosynthesis?
+
+- A Carbon dioxide
+- B Oxygen
+- C Nitrogen
+- D Hydrogen
+Submit & auto-mark
+
+Online, paper or both
+
+## Your exam hall doesn't have to change.
+Plenty of exams should still be written by hand. Examezy prints them in shuffled sets, collects the answer sheets as PDFs and checks them on screen, so paper and online results sit in the same reports.
+Paper exams Online exams
+
+- Online Paper Hybrid
+Written in the browser, marked on submit
+
+- 1 Candidates write on laptop, tablet or phone
+- 2 Answers autosave; proctoring rules apply
+- 3 Objective answers marked instantly
+- 4 Long answers checked on screen or by AI
+- 5 Report with rank and percentile
+
+AI where it saves hours
+
+## AI that drafts. People who decide.
+Examezy uses AI for the slow parts of an exam: writing the paper, checking the copies, explaining the results. Every AI output is a draft your team can see, edit and approve.
+
+AI paper generator
+Generating
+NCERT_Physics_Ch3.pdf class-notes.pptx
+Chapter | Marks | Mix |
+
+Motion in a plane | 12 | MCQ · numeric |
+Laws of motion | 16 | MCQ · long |
+Work & energy | 12 | numeric · long |
+
+Q1 A projectile is fired at 30° with speed 40 m/s. Find the time of flight. p. 71
+Q2 State Newton's second law and derive F = ma. p. 94
+Writing Q3 of 24…
+
+### Write the paper
+A balanced paper from your own books, planned by chapter weightage, with the source page cited for each question.
+Learn more
+AI checking · Maths unit test · 38 copies
+AI draft
+
+- Uploaded
+- Matched
+- Read
+- Marked
+- Teacher review
+Ishaan Verma · Roll 17
+7 pages · matched by name and roll number
+
+9.5/11
+
+- Q1 All three points covered. 2 / 2
+- Q2 Correct method; final value off by a sign. 2.5 / 4
+- Q3 Clear diagram, labelled correctly. 5 / 5
+Students see nothing until a teacher releases.
+
+### Check the copies
+Handwritten and typed answers marked against a rubric, returned in red pen, released only after a teacher reviews.
+Learn more
+Question insights · Chemistry Unit 4
+218 attempts
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q4 needs a re-teach
+58% chose option B: most confused molarity with molality.
+
+Correct Incorrect Skipped
+
+### Explain the results
+Misconceptions, Bloom's levels and a learning path for each student; the class's weak spots for each teacher.
+Learn more
+
+Only need AI copy checking, or an API? See Evalezy , our standalone checking product.
+
+1,000
+simultaneous test-takers in our production load test, zero errors
+
+7
+question types, plus passage-based versions
+
+200
+answer-sheet PDFs per bulk upload, matched to students by AI
+
+6
+coding languages, marked on hidden test cases
+
+Report · Full Mock 12 · Kabir Singh
+Released
+212
+of 300
+
+Rank
+14
+of 1,208
+
+Percentile
+98.9
+
+Accuracy
+79%
+
+Physics you 78 · class avg 61
+
+Chemistry you 64 · class avg 58
+
+Maths you 70 · class avg 52
+
+Correct 54 Incorrect 14 Skipped 7 Class average
+
+Results & analytics
+
+## A report card that tells students what to do next.
+Rank and percentile, how they compare with the class and the topper, time and accuracy per section, and a question-by-question review with explanations and the class's answer spread. You get every report as a PDF, in one ZIP.
+Explore reports
+
+Who it's for
+
+## Shaped to the way you test.
+
+Coaching institutes A test series your students will measure themselves by. Schools From unit test to pre-board, without the weekend of checking. Colleges & universities Internal assessments that run themselves, semester after semester. Hiring & HR teams Shortlist on skill, not on CVs. Training & certification Assessments your certificates can stand on. EdTech & test publishers Your brand on the test. Our engine underneath.
+
+Do the maths
+
+## How many hours does checking cost you?
+Move the sliders to your own numbers. Then compare checking by hand with reviewing AI-drafted marks.
+
+Students 400 Written answers per paper 8 Minutes to check one answer by hand 3 min Minutes to review one AI-checked answer 1 min Written exams per term 4
+Teacher hours spent checking, per term
+By hand 640 h
+
+Reviewing AI drafts 213 h
+
+Hours back for teaching
+427
+An estimate from your own numbers, not a promise. Review time depends on your subject and how closely teachers check each AI draft.
+
+Straight talk
+
+## What Examezy doesn't do (yet)
+We'd rather lose a deal than win one on a feature we don't have. If you need any of these, tell us in the demo and we'll be honest about fit.
+
+- OMR bubble-sheet scanning
+
+- Lockdown browsers or ID matching against a photo
+
+- Psychometric or personality tests
+
+- Collecting exam fees on the registration page
+
+## Questions, answered
+All FAQs
+What is Examezy? +
+Examezy is an online exam and assessment platform for institutes and hiring teams. You create the paper, schedule it, invite or register candidates, proctor it, evaluate it automatically, on screen or with AI, and publish results with reports, all in one place. It's built by the team behind Vacademy.
+
+How many candidates can write at the same time? +
+We load-tested the full exam journey on production with 1,000 simultaneous test-takers: zero errors, every attempt submitted and graded. If you plan a bigger single-window event, we'll plan capacity with you.
+
+What happens if a candidate's internet drops? +
+Answers are saved on the device and synced to the server. The candidate sees that their answers are safe, submission retries automatically, and an interrupted attempt can be resumed. Starting the test needs a connection.
+
+How does Examezy stop cheating? +
+Every online test forces full screen, warns on tab switches and auto-submits on the third, and blocks copy, paste, right-click and text selection. Camera proctoring adds a check-in selfie, face checks on the device, and snapshots at an interval you choose.
+
+How does AI checking work? +
+AI reads handwritten copies or typed long answers, marks each answer against a rubric and your model answer, and writes feedback. Handwritten copies come back checked in red pen. Marks are drafts until a teacher reviews and releases them.
+
+Can I use Examezy for pen-and-paper exams? +
+Yes. Print the paper in multiple shuffled sets with an answer key, collect answer sheets as PDFs, check them on screen or with AI, and publish results online.
+
+How much does Examezy cost? +
+Plans are sized to the number of candidates and exams you run, and AI checking is paid per copy. Book a demo and we'll send a quote for your exam calendar.
+
+Book a demo
+
+## See your own exam running on Examezy.
+In 30 minutes we'll walk through the exam screen, proctoring, evaluation and reports. Send us a past paper and we'll set it up as a test, so you can run a pilot with one batch.
+
+- A live walkthrough shaped to your exams
+- Your past paper set up as a test
+- A quote sized to your candidates and exam calendar
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam Software for Institutes and Hiring Teams | Examezy
+URL: https://examezy.com/online-exams/
+
+- Home
+- / Platform
+- / Online exams
+Online exams
+
+# Online exams that feel like the real exam hall.
+Build the paper once, set the window, and let Examezy run it: timers per test, section or question, a question palette, autosave on every answer and auto-submit when time runs out. You watch it live from one console.
+Book a demo See how it works
+
+- Tested with 1,000 simultaneous test-takers
+- Autosave + resume
+- Timers per test, section or question
+- Auto-submit at time-out
+
+Physics Mock 07 · Section A
+01:24:37
+Physics Chemistry Maths
+Question 14 +4 / −1
+A ball is thrown vertically upward with speed 20 m/s. Taking g = 10 m/s², the maximum height it reaches is:
+
+- A 10 m
+- B 20 m
+- C 40 m
+- D 200 m
+Mark for review Save & next
+
+Palette
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Answered 9
+For review 2
+Not visited 9
+
+Exam screen
+
+## The interface candidates already know
+Section tabs, a question palette that shows answered, not answered and marked-for-review, a running timer and a numeric keypad for number answers. It works the way competitive-exam software works, so candidates spend their time on questions, not on the screen.
+Optional reading time lets candidates see the paper before the clock starts, the way a paper exam hands out the question booklet a few minutes early.
+
+- Mark for review and come back
+- Lock or allow switching between sections
+- Rich text and images in questions, options and passages
+
+MCQ · single A B C D
+MCQ · multiple A B C D
+True / false True False
+Numeric 12.5
+One word mitochondria
+Long answer
+Coding def f(x):
+Passage-based Passage → 4 Q
+
+Timing
+
+## Timers that match how your exam is actually set
+Give the whole test one duration, give each section its own clock, or time every question separately. Choose whether the test submits itself at time-out or waits for the candidate.
+Exams run in a fixed live window. Mock tests stay open with a fixed duration, and practice tests are untimed, so one platform covers the final exam and every rehearsal before it.
+
+Create assessment · Half-yearly Physics
+
+- Basic info
+- 2 Sections & questions
+- 3 Participants
+- 4 Access
+Section A · Objective 40 min · 20 Q · +2 / −0.5
+Negative marking Random order Section timer Cutoff marks
+
+Section B · Long answer 80 min · 6 Q · AI checking on
+
+Duration per section · auto-submit at time-out
+
+Reliability
+
+## A dropped connection does not drop the answers
+Every answer is saved on the candidate's device and synced to the server as they go. If the network blinks, a banner tells them their answers are safe and will be sent when they are back online. Submission retries on its own, and an interrupted attempt can be resumed.
+We load-tested the full exam journey on production with 1,000 candidates writing at the same moment: zero errors, every attempt submitted and graded.
+
+- Answers kept on the device until the server confirms
+- Automatic retries on submit
+- Resume an interrupted attempt
+
+Live test · Biology · Q 37 of 60
+
+You're offline. Keep going.
+Your answers are saved on this device and will be sent when you're back online.
+
+- Q 34 saved · synced
+- Q 35 saved · synced
+- Q 36 saved on device
+- Q 37 saved on device
+Back online · 2 answers synced
+
+Exam-day control
+
+## Watch the exam live, act in one click
+The monitoring console splits candidates into Attempted, Ongoing and Pending. Send reminders to those who have not started, close submissions, grant a reattempt, remove a participant or export the list of no-shows.
+
+Monitoring · Full Mock 12
+LIVE
+Attempted
+412
+
+Ongoing
+188
+
+Pending
+23
+
+- A Aarav Sharma JEE-A · Q 61/75
+- D Diya Menon JEE-A · Q 48/75
+- K Kabir Singh JEE-B · Q 68/75
+- S Sara Iqbal JEE-B · Q 28/75
+23 haven't started Remind all
+
+## Everything in online exams
+Sections
+Each with its own duration, default marks, negative marking and cutoff.
+
+Negative marking
+Set the penalty per section; unattempted questions score zero.
+
+Random question order
+Shuffle questions within a section so neighbours see different orders.
+
+- Reading time
+A timed preview of the paper before the exam clock starts.
+
+Browser restrictions
+Full screen, tab-switch warnings, copy and right-click blocked.
+
+Reminders
+Starting-soon and started emails, plus WhatsApp through automations.
+
+Instant results
+Release on submit, at the end of the window, or when you choose.
+
+Batches or open links
+Assign to batches and individuals, or open a public registration page.
+
+## Questions about online exams
+How many candidates can take an exam at the same time? +
+We load-tested the full exam journey on our production system with 1,000 candidates writing simultaneously on a 30-question paper: zero errors, and every attempt was submitted and graded. If you expect more than that in a single window, tell us during the demo and we will plan capacity with you.
+
+What happens if a candidate's internet drops mid-exam? +
+Answers are saved on the device as they are given and synced to the server. The candidate sees a banner saying their answers are safe, submission retries automatically, and an interrupted attempt can be resumed. Starting a test does need a working connection.
+
+Can I time each section separately? +
+Yes. Duration can be set for the whole test, for each section, or for each question, and you can allow or block switching between sections.
+
+Does the test submit itself when time is up? +
+If you choose auto-submit, yes. You can also let candidates submit themselves.
+
+Can candidates take the exam on a phone? +
+Yes, the exam runs in any modern browser on a laptop, tablet or phone. For high-stakes papers we recommend a laptop, since full-screen and tab-switch rules are designed around a desktop browser.
+
+## Works hand in hand with
+AI proctoring On-device face checks, snapshots and auto-submit rules. Question types MCQ, numeric, one word, long answer, coding, passages. Results & analytics Rank, percentile, question insights, AI reports.
+
+## From the blog
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# AI Proctoring Software: Camera Checks Without Video Streaming | Examezy
+URL: https://examezy.com/proctoring/
+
+- Home
+- / Platform
+- / AI proctoring
+AI proctoring
+
+# Proctoring that catches the obvious, without streaming anyone's bedroom.
+Every online test is locked to full screen and watches for tab switches. Turn on camera proctoring and Examezy counts faces on the candidate's own device, takes small snapshots, flags what looks wrong and lets you decide what a flag means.
+Book a demo See how it works
+
+- Face checks run on the device
+- No video streamed
+- Auto-submit on the 3rd tab switch
+- Snapshot timeline for review
+
+Proctoring · Riya Kapoor · attempt review
+Flags 2 / 5
+1 face on device
+Faces are counted on the candidate's device. Snapshot every 60 s and at each flag. No video.
+
+- 00:00 Camera check-in
+- 12:41 Tab switch (1 of 3)
+- 27:09 No face for 6 s
+- 27:15 Face back in view
+- 41:52 2 faces detected
+
+Full screen enforced Copy & paste blocked Auto-submit after 5 flags
+
+Always on
+
+## Browser rules on every online test
+The exam opens in full screen. Leaving the tab triggers a warning; the third switch submits the test automatically. Copying, right-click and text selection are blocked, and paste is blocked in typed answers.
+None of this needs a plugin or a special browser, so candidates do not get stuck installing software on exam morning.
+
+- Forced full screen
+- Tab-switch warnings, auto-submit on the 3rd
+- Copy, paste, right-click and selection blocked
+
+Physics Mock 07 · Section A
+01:24:37
+Physics Chemistry Maths
+Question 14 +4 / −1
+A ball is thrown vertically upward with speed 20 m/s. Taking g = 10 m/s², the maximum height it reaches is:
+
+- A 10 m
+- B 20 m
+- C 40 m
+- D 200 m
+Mark for review Save & next
+
+Palette
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Answered 9
+For review 2
+Not visited 9
+
+Camera proctoring
+
+## A camera check-in, then quiet watching
+Before starting, the candidate sees a live preview and takes a selfie. You can make the camera mandatory: no camera, no exam.
+During the exam a face detector runs on the candidate's device. No face for six seconds, or more than one face for a couple of seconds, raises a flag and takes a snapshot. Small JPEG snapshots are also taken at an interval you choose, from every 10 seconds to every 10 minutes.
+
+- Check-in selfie and live preview
+- Flags for no face and multiple faces
+- Snapshots every 10 s to 10 min, plus one at each flag
+
+Before you start · Camera check-in
+Camera required
+Face in frame
+
+- Camera allowed
+- Selfie captured
+- One face detected
+Snapshots every 60 s and at each flag. Nothing is streamed.
+Start exam
+
+Your rules
+
+## You decide what a flag means
+Pick a violation limit of 3, 5 or 10 flags before the test submits itself, or record only and let a teacher judge afterwards. Lost camera, denied camera, full-screen exits and tab switches all land in the same log.
+After the exam, open any attempt to see a timeline of events with the snapshots beside them. Review takes minutes, not hours of video.
+
+Assessment dashboard · This month
+
+Live now
+3
+
+Attempts
+8,214
+
+Avg score
+61%
+
+To check
+146
+
+Submissions heatmap
+
+Follow up
+
+- Ananya R. 3 tests missed
+- Vivek P. Score down 22%
+- Zoya K. Not started
+
+## Everything in ai proctoring
+Light on bandwidth
+Only small snapshots travel, so it works on ordinary home connections.
+
+Privacy by design
+Faces are counted on the device. Nothing is streamed live.
+
+Event log
+Tab switch, full-screen exit, camera lost, no face, multiple faces, auto-submitted.
+
+Per assessment
+Off unless you choose it, so practice tests stay friction-free.
+
+Shuffled orders
+Random question order per section; shuffled sets for printed papers.
+
+Fails safe
+If the camera hiccups, it records less. It never blocks an honest candidate.
+
+## Questions about ai proctoring
+Does Examezy record video of candidates? +
+No. Faces are detected on the candidate's own device and only small still snapshots are uploaded, at the interval you set and whenever a flag is raised. No video is streamed or stored.
+
+What counts as a violation? +
+Switching tabs, leaving full screen, the camera being denied or lost, no face in view for about six seconds, or more than one face in view. Each is logged with a timestamp, and camera flags come with a snapshot.
+
+Will the test be auto-submitted for a violation? +
+Three tab switches always submit an online test. For camera flags you choose: auto-submit after 3, 5 or 10 flags, or never, so a teacher reviews the timeline and decides.
+
+Do candidates need to install anything? +
+No. Proctoring runs in the browser. Candidates allow camera access when asked, and you can make that mandatory to start.
+
+Is there a lockdown browser or ID verification? +
+Not today. Examezy's proctoring is the browser rules above plus camera checks. If you need a lockdown browser or live human invigilators for a certification exam, tell us in the demo and we will be straight about whether Examezy fits.
+
+## Works hand in hand with
+Online exams Timed, sectioned exams that survive a dropped connection. Open registration tests Public test pages with your own form and window. Results & analytics Rank, percentile, question insights, AI reports.
+
+## From the blog
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam Question Types: MCQ, Numeric, Coding, Long Answer | Examezy
+URL: https://examezy.com/question-types/
+
+- Home
+- / Platform
+- / Question types
+Question types
+
+# From one-mark MCQs to code that has to compile.
+Mix objective questions that mark themselves with long answers your teachers (or AI) check, and coding questions run against hidden test cases. All with rich text, images and explanations.
+Book a demo See how it works
+
+- 7 question types
+- 3 passage-based versions
+- Auto-marked objective types
+- Explanations shown in review
+
+MCQ · single A B C D
+MCQ · multiple A B C D
+True / false True False
+Numeric 12.5
+One word mitochondria
+Long answer
+Coding def f(x):
+Passage-based Passage → 4 Q
+
+Objective
+
+## Questions that mark themselves the moment the test ends
+Single-correct and multiple-correct MCQs, true/false, numeric answers (single digit, integer, positive integer or decimal, with more than one accepted value if you like) and one-word answers that ignore case and extra spaces.
+Negative marking is set per section, and results can reach candidates the second they submit.
+
+- MCQ single and multiple correct
+- True / false
+- Numeric with several accepted values
+- One word, case-insensitive
+
+Report · Full Mock 12 · Kabir Singh
+Released
+212
+of 300
+
+Rank
+14
+of 1,208
+
+Percentile
+98.9
+
+Accuracy
+79%
+
+Physics you 78 · class avg 61
+
+Chemistry you 64 · class avg 58
+
+Maths you 70 · class avg 52
+
+Correct 54 Incorrect 14 Skipped 7 Class average
+
+Comprehension
+
+## Passage-based questions, the way board papers set them
+Write a passage once and hang single-correct, multiple-correct or numeric questions off it. Candidates see the passage beside each question instead of scrolling back.
+
+Physics Mock 07 · Section A
+01:24:37
+Physics Chemistry Maths
+Question 14 +4 / −1
+A ball is thrown vertically upward with speed 20 m/s. Taking g = 10 m/s², the maximum height it reaches is:
+
+- A 10 m
+- B 20 m
+- C 40 m
+- D 200 m
+Mark for review Save & next
+
+Palette
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Answered 9
+For review 2
+Not visited 9
+
+Subjective
+
+## Long answers, checked by a teacher or by AI
+Long-answer questions go to your evaluators. Turn on AI checking and Examezy grades each answer against a rubric and your model answer in seconds, as a draft your teacher approves.
+
+AI checking · Maths unit test · 38 copies
+AI draft
+
+- Uploaded
+- Matched
+- Read
+- Marked
+- Teacher review
+Ishaan Verma · Roll 17
+7 pages · matched by name and roll number
+
+9.5/11
+
+- Q1 All three points covered. 2 / 2
+- Q2 Correct method; final value off by a sign. 2.5 / 4
+- Q3 Clear diagram, labelled correctly. 5 / 5
+Students see nothing until a teacher releases.
+
+Coding
+
+## Code that runs, against tests the candidate can't see
+Coding questions come with an editor inside the exam. Python and JavaScript run in the browser; C, C++, Java and Go run on a judge server. Marks are proportional to the hidden test cases passed, and scoring is repeated on the server.
+
+Coding · Q2 · Two Sum · Python
+Run
+1 def two_sum(nums, target):
+2 seen = {}
+3 for i, n in enumerate(nums):
+4 if target - n in seen:
+5 return [seen[target - n], i]
+6 seen[n] = i
+7
+Hidden tests
+
+8 / 10 marks
+8 of 10 test cases passed
+Python JS C C++ Java Go
+
+## Everything in question types
+MCQ (single correct)
+Full marks for the right option, the section's penalty for a wrong one.
+
+MCQ (multiple correct)
+Candidates pick every correct option.
+
+True / false
+Quick checks of a concept, auto-marked.
+
+Numeric
+Integer, decimal or single-digit answers, several accepted values.
+
+One word
+Short typed answers, matched ignoring case and spacing.
+
+Long answer
+Teacher-checked, or AI-graded against a rubric.
+
+Coding
+Six languages, hidden test cases, proportional marks.
+
+Passage-based
+Comprehension versions of MCQ and numeric questions.
+
+## Questions about question types
+Which question types are auto-marked? +
+Single and multiple-correct MCQs, true/false, numeric, one word and coding are marked automatically. Long answers are checked by a teacher, or by AI against a rubric if you turn AI checking on.
+
+Can a numeric question accept more than one answer? +
+Yes, you can list several accepted values. Answers are matched exactly, so for decimals set the precision you expect in the question.
+
+Can I add images and formulas to questions? +
+Questions, options, explanations and passages use a rich-text editor with images, so diagrams and figures sit right in the question.
+
+Do you support match-the-following or fill-in-the-blank? +
+Not as their own types today. Most institutes set these as MCQs or one-word questions. Tell us if they matter for your papers.
+
+Which languages can coding questions use? +
+Python, JavaScript, C, C++, Java and Go.
+
+## Works hand in hand with
+Question bank Every question reusable, tagged and searchable. Coding tests In-exam code editor, hidden test cases, six languages. Evaluation & marking Auto-marking, on-screen checking and AI, one workflow.
+
+## From the blog
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Question Bank Software: Build, Tag and Reuse Questions | Examezy
+URL: https://examezy.com/question-bank/
+
+- Home
+- / Platform
+- / Question bank
+Question bank
+
+# Write a good question once. Use it for years.
+Every question you create, import or generate lands in your institute's question bank, tagged and searchable. Building next month's test becomes picking, not typing.
+Book a demo See how it works
+
+- Filter by type, difficulty, tags
+- Word import
+- AI generation from your material
+- Source of every question tracked
+
+Question bank · 12,480 questions
+
+Search questions… Physics · Class 11 Medium
+
+- Projectile motion: max height MCQ Easy AI
+- Mole concept: molarity vs molality MCQ multi Medium Upload
+- Integrate x·eˣ dx Numeric Medium Manual
+- Explain photosynthesis with a diagram Long answer Hard Knowledge base
+- Reverse a linked list Coding Hard AI
+2 selected Add to test
+
+Organise
+
+## Find the right question in seconds
+Filter papers by level, subject, tags and date, and individual questions by type, difficulty, tags and where they came from: typed by hand, uploaded, generated by AI or drawn from a knowledge base. Mark favourites, archive the old.
+Questions are linked into tests rather than copied, so marks, order and timing belong to each test while the question itself stays clean for the next one.
+
+Create assessment · Half-yearly Physics
+
+- Basic info
+- 2 Sections & questions
+- 3 Participants
+- 4 Access
+Section A · Objective 40 min · 20 Q · +2 / −0.5
+Negative marking Random order Section timer Cutoff marks
+
+Section B · Long answer 80 min · 6 Q · AI checking on
+
+Duration per section · auto-submit at time-out
+
+Import
+
+## Bring your existing papers in from Word
+Upload a Word document with simple markers for questions, options and answers, and Examezy turns it into a test. Years of past papers become a usable bank in an afternoon.
+Have only a printed or scanned paper? The AI extractor digitises it, marking scheme included.
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET B
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET A
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Export ready
+2 sets · shuffled · answer key
+
+Generate
+
+## Fill the gaps with AI, from your own books
+Generate questions from a PDF, Word file, slides, an image, an audio clip or a topic prompt, then refine the set by chatting with it. Generate from your knowledge base and every question cites the page it came from.
+
+AI paper generator
+Generating
+NCERT_Physics_Ch3.pdf class-notes.pptx
+Chapter | Marks | Mix |
+
+Motion in a plane | 12 | MCQ · numeric |
+Laws of motion | 16 | MCQ · long |
+Work & energy | 12 | numeric · long |
+
+Q1 A projectile is fired at 30° with speed 40 m/s. Find the time of flight. p. 71
+Q2 State Newton's second law and derive F = ma. p. 94
+Writing Q3 of 24…
+
+## Everything in question bank
+Powerful filters
+Type, difficulty, subject, tags, date and source.
+
+Reuse without copying
+One question, many tests, each with its own marks.
+
+Word import
+Marker-based import of whole papers.
+
+Digitise printed papers
+Photo or PDF of a paper into editable questions.
+
+AI generation
+From documents, images, audio, topics or your knowledge base.
+
+Explanations
+Add a solution once; candidates see it in their review.
+
+## Questions about question bank
+Can I import my existing question papers? +
+Yes. Word documents import with simple markers for questions, options and answers. Printed or scanned papers can be digitised with the AI extractor.
+
+If I edit a question, do old results change? +
+Questions are linked into tests with their own marks and order. Talk to us about your editing workflow in the demo; we'll show how reuse and versioning work for your team.
+
+Can several teachers share one bank? +
+Yes. The bank belongs to the institute, and per-test access settings control who can create, edit and evaluate each assessment.
+
+Does AI generation use my own material? +
+Yes. Generate from your PDFs, Word files, slides or knowledge base. Knowledge-base questions cite the source page so a teacher can check them quickly.
+
+## Works hand in hand with
+AI question paper generator A full paper from your syllabus in minutes, with sources. Question types MCQ, numeric, one word, long answer, coding, passages. Paper & offline exams Print shuffled sets, collect sheets, check on screen.
+
+## From the blog
+Question papers
+How to Make a Question Paper Blueprint (with a Weightage Table Template)
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# AI Question Paper Generator from Your Syllabus and Books | Examezy
+URL: https://examezy.com/ai-question-paper-generator/
+
+- Home
+- / Platform
+- / AI question paper generator
+AI question paper generator
+
+# A balanced question paper, drafted from your own books.
+Pick the chapters and the weightage. Examezy plans the paper, writes the questions from your material, cites the page each one came from, and hands you a draft to edit, not a black box to trust.
+Book a demo See how it works
+
+- Up to 120 questions per paper
+- Source page cited per question
+- Plan by syllabus and weightage
+- Print-ready PDF
+
+AI paper generator
+Generating
+NCERT_Physics_Ch3.pdf class-notes.pptx
+Chapter | Marks | Mix |
+
+Motion in a plane | 12 | MCQ · numeric |
+Laws of motion | 16 | MCQ · long |
+Work & energy | 12 | numeric · long |
+
+Q1 A projectile is fired at 30° with speed 40 m/s. Find the time of flight. p. 71
+Q2 State Newton's second law and derive F = ma. p. 94
+Writing Q3 of 24…
+
+Plan first
+
+## Weightage you set, not whatever the AI felt like
+Choose the syllabus, the chapters and how many marks each should carry. Examezy shows the plan before it writes a single question, so the paper is balanced by design.
+Mix single and multiple-correct MCQs, true/false, one word, numeric and long answers, plus passage-based and assertion-reason style questions.
+
+Create assessment · Half-yearly Physics
+
+- Basic info
+- 2 Sections & questions
+- 3 Participants
+- 4 Access
+Section A · Objective 40 min · 20 Q · +2 / −0.5
+Negative marking Random order Section timer Cutoff marks
+
+Section B · Long answer 80 min · 6 Q · AI checking on
+
+Duration per section · auto-submit at time-out
+
+Any source
+
+## From whatever you teach with
+Upload a PDF, Word file or slide deck, a photo of a textbook page, or an audio recording of a lecture, or just type a topic. Generate inside the test wizard to plan a whole test, fill one section, or pick from questions you already have.
+
+- PDF, Word and slides
+- Images and scanned pages
+- Audio, with a target language
+- A topic prompt
+- Refine by chatting
+
+Question bank · 12,480 questions
+
+Search questions… Physics · Class 11 Medium
+
+- Projectile motion: max height MCQ Easy AI
+- Mole concept: molarity vs molality MCQ multi Medium Upload
+- Integrate x·eˣ dx Numeric Medium Manual
+- Explain photosynthesis with a diagram Long answer Hard Knowledge base
+- Reverse a linked list Coding Hard AI
+2 selected Add to test
+
+Trust, then use
+
+## Every question shows its source
+Questions generated from your knowledge base cite the page they came from, so a teacher can verify a question in seconds. Edit anything, then publish online or export a print-ready PDF for a paper exam.
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET B
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET A
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Export ready
+2 sets · shuffled · answer key
+
+## Everything in ai question paper generator
+Up to 120 questions
+A full-length paper in one go.
+
+Cited sources
+Page references for knowledge-base questions.
+
+Print-ready
+Download a paper PDF, or run it online.
+
+Coding questions too
+Generate programming problems with test cases.
+
+Chat to refine
+Ask for harder, shorter or more application-based questions.
+
+Into your bank
+Everything generated is saved and tagged for reuse.
+
+## Questions about ai question paper generator
+Is the AI-generated paper ready to use as-is? +
+Treat it as a strong first draft. Every question is editable, and questions from your knowledge base cite their source page so a teacher can check them quickly before publishing.
+
+What can I generate a paper from? +
+PDFs, Word files, slides, images or scans, audio recordings, a topic prompt, or your institute's knowledge base.
+
+Can I control difficulty and chapter weightage? +
+Yes. You plan by syllabus and weightage first, see the plan, then generate.
+
+Can I print the paper? +
+Yes. Export a print-ready PDF, including multiple shuffled sets and an answer key, for paper exams.
+
+## Works hand in hand with
+Question bank Every question reusable, tagged and searchable. Paper & offline exams Print shuffled sets, collect sheets, check on screen. Question types MCQ, numeric, one word, long answer, coding, passages.
+
+## From the blog
+Question papers
+How to Make a Question Paper Blueprint (with a Weightage Table Template)
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Paper Exam Software: Print, Collect and Check Answer Sheets | Examezy
+URL: https://examezy.com/paper-exams/
+
+- Home
+- / Platform
+- / Paper & offline exams
+Paper & offline exams
+
+# Pen and paper on exam day. Everything else, online.
+Some exams should be written by hand. Examezy prints the paper in shuffled sets, collects the answer sheets as PDFs, lets teachers or AI check them on screen, and puts the results in the same reports as your online tests.
+Book a demo See how it works
+
+- Multiple shuffled sets
+- Answer key PDF
+- Upload sheets as PDF
+- Same reports as online tests
+
+Evaluate · Class 10-B · Science term 1 · Roll 23
+Draft saved
+
+- Q3.Q4.3units missing1½
+Marks
+
+- Q1 2 / 2
+- Q2 1 / 2
+- Q3 3 / 3
+- Q4 1.5 / 3
+- Q5 — / 5
+Total 7.5 / 15
+Submit & release
+
+Print
+
+## Shuffled sets, printed the way your exam hall needs
+Export the paper as a PDF in as many sets as you need, with questions shuffled between them, plus an answer key. Add header fields such as roll number and invigilator signature, set answer spacing, layout and font.
+
+- Multiple sets with shuffled questions
+- Optional answer key
+- Roll number and signature fields
+- Answer spacing and layout controls
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET B
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET A
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Export ready
+2 sets · shuffled · answer key
+
+Collect
+
+## Answer sheets arrive as PDFs, attached to the right student
+For take-home and remote written tests, candidates download the paper, write on paper and upload one PDF of their answer sheet. For exams in your hall, an admin can upload each sheet on the student's behalf, or bulk-upload a stack of scans and let AI match each copy to its student by name and roll number.
+
+Bulk upload · Class 9-A · Maths half-yearly
+37 of 38 matched
+38 PDFs uploaded · up to 200 at a time
+
+- scan_0412.pdf Aarav Sharma Roll 4 Matched
+- scan_0413.pdf Diya Menon Roll 11 Matched
+- scan_0414.pdf Name unclear Roll 1? Teacher picks
+- scan_0415.pdf Kabir Singh Roll 17 Matched
+Read from the name and roll number on each copy. Never guessed.
+
+Check
+
+## Check on screen with a real pen, or let AI draft the marks
+Teachers mark the scanned copy with pen, tick, cross, text and shapes, enter marks per question and save a checked PDF the student can see. Or turn on AI checking: Examezy reads the handwriting, marks against a rubric and returns a red-pen checked copy for the teacher to approve.
+
+AI checking · Maths unit test · 38 copies
+AI draft
+
+- Uploaded
+- Matched
+- Read
+- Marked
+- Teacher review
+Ishaan Verma · Roll 17
+7 pages · matched by name and roll number
+
+9.5/11
+
+- Q1 All three points covered. 2 / 2
+- Q2 Correct method; final value off by a sign. 2.5 / 4
+- Q3 Clear diagram, labelled correctly. 5 / 5
+Students see nothing until a teacher releases.
+
+## Everything in paper & offline exams
+Print-ready PDF
+Sets, keys and header fields.
+
+PDF answer sheets
+Uploaded by the student or by an admin.
+
+On-screen checking
+Pen, tick, cross, text, shapes, calculator.
+
+AI checking
+Handwriting read, marked, checked copy returned.
+
+Offline result entry
+Enter responses or import a ZIP of results (on request).
+
+One set of reports
+Paper and online results side by side.
+
+## Questions about paper & offline exams
+Does Examezy scan OMR sheets? +
+No. Examezy handles written answer sheets: printed papers, uploaded PDFs, on-screen checking and AI checking of handwriting. If you run OMR bubble sheets today, keep your scanner and talk to us about bringing the results into Examezy's reports.
+
+How do students submit a paper answer sheet? +
+For remote written tests they download the paper, write on paper and upload one PDF. For hall exams, an admin uploads the scans, one at a time or in bulk with AI matching each copy to its student.
+
+Can AI check handwritten answers? +
+Yes. AI checking reads the handwriting, marks each answer against a rubric and returns a red-pen checked copy. Marks stay a draft until a teacher approves and releases them.
+
+Can I enter marks for an exam that was checked by hand? +
+Yes, offline result entry lets you enter responses per question or import a ZIP of results, graded by the same engine. It is switched on per institute; ask us during setup.
+
+## Works hand in hand with
+AI answer-sheet checking Handwritten copies read, marked and returned in red pen. Evaluation & marking Auto-marking, on-screen checking and AI, one workflow. AI question paper generator A full paper from your syllabus in minutes, with sources.
+
+## From the blog
+Evaluation
+How Schools Cut Answer-Sheet Checking Time Without Lowering Standards
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Evaluation System: Auto, On-Screen and AI Marking | Examezy
+URL: https://examezy.com/evaluation/
+
+- Home
+- / Platform
+- / Evaluation & marking
+Evaluation & marking
+
+# Auto-marked, teacher-checked or AI-drafted. Always in your control.
+Objective questions are marked the moment a candidate submits. Long answers and paper copies go to your evaluators, who check them on screen, or to AI that drafts the marks for a teacher to approve. Nothing reaches a student until you release it.
+Book a demo See how it works
+
+- Instant objective marking
+- On-screen marking tools
+- AI drafts, teachers approve
+- Re-evaluate in one click
+
+Assessment dashboard · This month
+
+Live now
+3
+
+Attempts
+8,214
+
+Avg score
+61%
+
+To check
+146
+
+Submissions heatmap
+
+Follow up
+
+- Ananya R. 3 tests missed
+- Vivek P. Score down 22%
+- Zoya K. Not started
+
+Automatic
+
+## Objective marks the second the test ends
+MCQs, true/false, numeric, one word and coding are marked automatically on submit, with the section's negative marking applied. Results can go out immediately, at the end of the window, or when you release them.
+Spotted a wrong answer key? Fix it and re-evaluate the whole test, selected candidates, or just the affected questions.
+
+Report · Full Mock 12 · Kabir Singh
+Released
+212
+of 300
+
+Rank
+14
+of 1,208
+
+Percentile
+98.9
+
+Accuracy
+79%
+
+Physics you 78 · class avg 61
+
+Chemistry you 64 · class avg 58
+
+Maths you 70 · class avg 52
+
+Correct 54 Incorrect 14 Skipped 7 Class average
+
+On-screen marking
+
+## A red pen, without the stack of paper
+Evaluators open the answer sheet in the browser and mark it with pen, tick, cross, text, boxes and circles in any colour, with undo and a built-in calculator. Marks are entered per question, kept within each question's maximum, with remarks for the student.
+Drafts save as they go. When the evaluator submits, the checked copy is stored and the result released, and the student sees their own marked sheet.
+
+- Pen, tick, cross, text, box, circle
+- Marks per question with remarks
+- Saved drafts
+- Checked PDF for the student
+
+Evaluate · Class 10-B · Science term 1 · Roll 23
+Draft saved
+
+- Q3.Q4.3units missing1½
+Marks
+
+- Q1 2 / 2
+- Q2 1 / 2
+- Q3 3 / 3
+- Q4 1.5 / 3
+- Q5 — / 5
+Total 7.5 / 15
+Submit & release
+
+AI checking
+
+## Let AI do the first pass on long answers
+Turn on AI checking for a test and Examezy grades typed long answers in about 20 seconds and handwritten copies in a few minutes, against a rubric and your model answer, with feedback per question. Unreadable copies are refused, not guessed.
+AI marks are drafts. A teacher reviews each answer, changes any mark and releases. Students see nothing before that.
+
+AI checking · Maths unit test · 38 copies
+AI draft
+
+- Uploaded
+- Matched
+- Read
+- Marked
+- Teacher review
+Ishaan Verma · Roll 17
+7 pages · matched by name and roll number
+
+9.5/11
+
+- Q1 All three points covered. 2 / 2
+- Q2 Correct method; final value off by a sign. 2.5 / 4
+- Q3 Clear diagram, labelled correctly. 5 / 5
+Students see nothing until a teacher releases.
+
+## Everything in evaluation & marking
+Evaluator access
+Choose who evaluates each test, by role or by name.
+
+Re-evaluation
+Whole test, selected candidates or selected questions.
+
+Evaluation backlog
+See what's checked, by whom, and what's waiting.
+
+Remarks
+Feedback per question, visible after release.
+
+Result holds
+Nothing released until you say so.
+
+Release alerts
+Result emails with the report PDF attached.
+
+## Questions about evaluation & marking
+Can I re-evaluate after fixing an answer key? +
+Yes. Re-run evaluation for the whole assessment, for selected participants, or for selected questions of selected participants.
+
+Can several teachers evaluate the same test? +
+Yes. Each assessment's access settings decide who evaluates, by role or by named user.
+
+Will AI publish marks without a teacher? +
+No. AI marks are drafts. A teacher reviews, edits if needed and releases, and students see nothing before release.
+
+Do students see their checked copy? +
+Yes, once the result is released they can see their marked answer sheet alongside their report.
+
+## Works hand in hand with
+AI answer-sheet checking Handwritten copies read, marked and returned in red pen. Results & analytics Rank, percentile, question insights, AI reports. Paper & offline exams Print shuffled sets, collect sheets, check on screen.
+
+## From the blog
+Evaluation
+How Schools Cut Answer-Sheet Checking Time Without Lowering Standards
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# AI Answer Sheet Checking for Handwritten Exams | Examezy
+URL: https://examezy.com/ai-answer-sheet-checking/
+
+- Home
+- / Platform
+- / AI answer-sheet checking
+AI answer-sheet checking
+
+# Upload the copies tonight. Review the marks tomorrow morning.
+Examezy's AI reads handwritten answer sheets, marks every answer against one rubric, and returns each student's own copy checked in red pen. Your teachers review and release. Weeks of checking become an hour of reviewing.
+Book a demo See how it works
+
+- Bulk upload up to 200 PDFs
+- Students matched by name & roll no.
+- Unreadable copies refused, not charged
+- Teacher approves every mark
+
+AI checking · Maths unit test · 38 copies
+AI draft
+
+- Uploaded
+- Matched
+- Read
+- Marked
+- Teacher review
+Ishaan Verma · Roll 17
+7 pages · matched by name and roll number
+
+9.5/11
+
+- Q1 All three points covered. 2 / 2
+- Q2 Correct method; final value off by a sign. 2.5 / 4
+- Q3 Clear diagram, labelled correctly. 5 / 5
+Students see nothing until a teacher releases.
+
+Bulk upload
+
+## Drop a stack of scans. Each copy finds its student.
+Upload up to 200 PDFs at once. The AI reads the name and roll number written on each copy and matches it to your class list. It never guesses: anything unclear waits for a teacher to pick the student.
+
+Bulk upload · Class 9-A · Maths half-yearly
+37 of 38 matched
+38 PDFs uploaded · up to 200 at a time
+
+- scan_0412.pdf Aarav Sharma Roll 4 Matched
+- scan_0413.pdf Diya Menon Roll 11 Matched
+- scan_0414.pdf Name unclear Roll 1? Teacher picks
+- scan_0415.pdf Kabir Singh Roll 17 Matched
+Read from the name and roll number on each copy. Never guessed.
+
+Marking
+
+## One rubric, applied to every student the same way
+A rubric is drafted once per question from your paper and model answer. The AI reads each answer, handles maths lines, marks in half-mark steps and writes short feedback. A copy too faint to read is refused and not charged.
+
+Evaluate · Class 10-B · Science term 1 · Roll 23
+Draft saved
+
+- Q3.Q4.3units missing1½
+Marks
+
+- Q1 2 / 2
+- Q2 1 / 2
+- Q3 3 / 3
+- Q4 1.5 / 3
+- Q5 — / 5
+Total 7.5 / 15
+Submit & release
+
+Teacher review
+
+## AI drafts. Teachers decide.
+The teacher gets an alert when checking is done, opens each copy, sees the marks and feedback per question and changes anything. Results release only when the teacher says so, and students then see their red-pen checked copy.
+Cost is shown before you run a check, and failed, cancelled or unreadable copies are free.
+
+Assessment dashboard · This month
+
+Live now
+3
+
+Attempts
+8,214
+
+Avg score
+61%
+
+To check
+146
+
+Submissions heatmap
+
+Follow up
+
+- Ananya R. 3 tests missed
+- Vivek P. Score down 22%
+- Zoya K. Not started
+
+## Everything in ai answer-sheet checking
+200 copies per upload
+PDF scans from any scanner or phone app.
+
+No guessing
+Unmatched copies wait for a teacher.
+
+Maths-aware
+Equations and working read line by line.
+
+Red-pen copy
+Ticks, crosses, notes and the total, on the student's own sheet.
+
+- Minutes, not weeks
+Typically 1–8 minutes per handwritten copy.
+
+Pay per copy
+Cost previewed first; failures free.
+
+## Questions about ai answer-sheet checking
+How accurate is AI answer-sheet checking? +
+It applies one rubric consistently and handles most legible handwriting, including maths. It can misread messy writing, which is why every mark is a draft a teacher reviews before release. We'll check a few of your own copies in the demo so you can judge.
+
+How long does it take? +
+Typically 1 to 8 minutes per handwritten copy and about 20 seconds for typed long answers. Copies are checked in parallel, so a class is usually done in well under an hour.
+
+What does it cost? +
+AI checking is paid per copy, based on the number of questions, and the cost is shown before you start. Failed, cancelled and unreadable copies are not charged.
+
+Is this the same as Evalezy? +
+Yes, it's the same engine. Evalezy (evalezy.com) is our standalone product and API for teams that only want AI copy checking. Inside Examezy it's part of the full exam workflow.
+
+## Works hand in hand with
+Evaluation & marking Auto-marking, on-screen checking and AI, one workflow. Paper & offline exams Print shuffled sets, collect sheets, check on screen. Results & analytics Rank, percentile, question insights, AI reports.
+
+## From the blog
+Evaluation
+How Schools Cut Answer-Sheet Checking Time Without Lowering Standards
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Exam Result Analysis Software: Reports, Ranks and Insights | Examezy
+URL: https://examezy.com/results-analytics/
+
+- Home
+- / Platform
+- / Results & analytics
+Results & analytics
+
+# Results the moment it ends. Insight that lasts till the next exam.
+Every candidate gets a report with score, rank, percentile and a question-by-question review. You get the leaderboard, the questions that tripped the class, AI diagnostics of misconceptions, and every student's report PDF in one ZIP.
+Book a demo See how it works
+
+- Rank & percentile
+- Question insights
+- Bulk report ZIP
+- AI misconception reports
+
+Report · Full Mock 12 · Kabir Singh
+Released
+212
+of 300
+
+Rank
+14
+of 1,208
+
+Percentile
+98.9
+
+Accuracy
+79%
+
+Physics you 78 · class avg 61
+
+Chemistry you 64 · class avg 58
+
+Maths you 70 · class avg 52
+
+Correct 54 Incorrect 14 Skipped 7 Class average
+
+For each student
+
+## A report card that teaches, not just scores
+Score, rank and percentile; how they compare with the class average, the topper and the lowest; accuracy and time per section; and a question-wise review with the right answer, the explanation and what percentage of the class picked each option.
+The AI report goes further: strengths and weaknesses, misconceptions, a Bloom's taxonomy breakdown, flashcards and a learning path to follow before the next test.
+
+AI report · Diya Menon · Chemistry
+AI insights
+Strength
+Balancing equations: 9 of 9 right, fastest in class.
+
+Misconception
+Treats molality like molarity: uses volume of solution, not mass of solvent.
+
+Next step
+12 flashcards + 1 practice set on concentration terms.
+
+Bloom's levels
+Remember 92%
+
+Understand 78%
+
+Apply 54%
+
+Analyse 38%
+
+Spent 41% of time on 6 hardest questions
+
+For the teacher
+
+## See which questions the class got wrong, and why
+Question insights show correct, incorrect, partially correct and skipped counts for every question, with the fastest correct responders. The AI class diagnostic adds topic accuracy, a thinking-skill profile and the most common misconceptions, ready to print for the next class.
+
+Question insights · Chemistry Unit 4
+218 attempts
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q4 needs a re-teach
+58% chose option B: most confused molarity with molality.
+
+Correct Incorrect Skipped
+
+For the institute
+
+## Every exam, every batch, one dashboard
+The assessment dashboard shows what's live now, score distributions, a submission heatmap, the evaluation backlog, statistics per batch and per evaluator, and a list of learners to follow up, with WhatsApp, email and call buttons beside each name.
+
+Assessment dashboard · This month
+
+Live now
+3
+
+Attempts
+8,214
+
+Avg score
+61%
+
+To check
+146
+
+Submissions heatmap
+
+Follow up
+
+- Ananya R. 3 tests missed
+- Vivek P. Score down 22%
+- Zoya K. Not started
+
+Hand-outs
+
+## Every student's report, in one download
+Export the leaderboard as CSV or PDF, participant lists with your registration fields, or a ZIP with one report PDF per student plus an index, ready for parent-teacher meetings.
+
+Exports · Full Mock 12
+
+- ZIP reports_full-mock-12.zip 1,208 student PDFs + index.csv Download
+- PDF leaderboard.pdf Rank, marks, time, percentile Download
+- CSV participants.csv With your registration fields Download
+- PDF question-insights.pdf Correct, incorrect, skipped per question Download
+
+## Everything in results & analytics
+Leaderboard
+Rank, percentile, marks and time; CSV and PDF.
+
+Overview
+Attempted, ongoing, average marks and time.
+
+Bulk report ZIP
+One PDF per student, plus an index.
+
+AI diagnostics
+Misconceptions, topic accuracy, thinking skills.
+
+Survey reports
+Option percentages and free-text answers.
+
+Result alerts
+Release emails with PDF; WhatsApp via automations.
+
+## Questions about results & analytics
+Can students see their rank and percentile? +
+Yes. Each student's report shows score, rank, percentile and comparison with the class average, the highest and the lowest score.
+
+Can I download every student's report at once? +
+Yes. The bulk export creates a ZIP with one report PDF per student, plus an index file.
+
+Which export formats are supported? +
+CSV and PDF for leaderboards, participant lists and question insights, and ZIP for bulk report PDFs.
+
+Can parents receive results on WhatsApp? +
+Result release can trigger WhatsApp, email or push messages through Automations, including rank and percentile. Set the message once and it goes out with every release.
+
+## Works hand in hand with
+Evaluation & marking Auto-marking, on-screen checking and AI, one workflow. Online exams Timed, sectioned exams that survive a dropped connection. Open registration tests Public test pages with your own form and window.
+
+## From the blog
+Results
+Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Results
+How to Analyse a Mock Test: A Step-by-Step Method for Students
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Test Registration: Public Exam Pages with Custom Forms | Examezy
+URL: https://examezy.com/registration/
+
+- Home
+- / Platform
+- / Open registration tests
+Open registration tests
+
+# Scholarship tests and entrance exams that fill your funnel.
+Open a test to anyone with a link. Candidates register on a public page with the fields you ask for, verify their phone by OTP, get reminders, write the test and receive results, and every registration is a lead you can follow up.
+Book a demo See how it works
+
+- Public registration page
+- Your own form fields
+- Separate registration window
+- Reminders and results automated
+
+learn.yourinstitute.com/register?code=STAR-2026
+Open · 1,946 registered
+Star Scholarship Test 2026
+Sunday 9 Nov · 10:00–13:00 · Classes 8–12
+Full name
+Meera Joshi
+
+Class
+Class 10
+
+School
+St. Xavier's, Pune
+
+Target exam
+JEE
+
+Verify your phone
+OTP sent to +91 98•••• 4410
+4 8 1 9
+
+- Registration closes 8 Nov
+- Reminder on WhatsApp
+- Rank list after the test
+Register
+
+Register
+
+## A registration page that asks what you need to know
+Add your own fields (class, city, school, target exam) and set a registration window separate from the exam window. Candidates create an account and verify by OTP, so you get real contact details, not throwaway emails.
+
+- A Your own form fields
+- B Registration window, separate from the exam
+- C OTP-verified phone numbers
+- D Every field in your exports
+
+Remind
+
+## Fewer no-shows, without anyone making calls
+Automations send messages on registration, before the test starts, when it starts and when results are out, by WhatsApp, email or push. The monitoring console shows who has not started yet, with a reminder button.
+
+Monitoring · Full Mock 12
+LIVE
+Attempted
+412
+
+Ongoing
+188
+
+Pending
+23
+
+- A Aarav Sharma JEE-A · Q 61/75
+- D Diya Menon JEE-A · Q 48/75
+- K Kabir Singh JEE-B · Q 68/75
+- S Sara Iqbal JEE-B · Q 28/75
+23 haven't started Remind all
+
+Convert
+
+## Every test-taker is a warm lead
+Export registrants with your custom fields, rank and percentile, and hand the list to your counsellors. Students who scored well are the easiest admissions conversation you'll have all year.
+
+Exports · Full Mock 12
+
+- ZIP reports_full-mock-12.zip 1,208 student PDFs + index.csv Download
+- PDF leaderboard.pdf Rank, marks, time, percentile Download
+- CSV participants.csv With your registration fields Download
+- PDF question-insights.pdf Correct, incorrect, skipped per question Download
+
+## Everything in open registration tests
+Public link
+Share anywhere: ads, WhatsApp groups, school visits.
+
+Custom form
+Ask for exactly the details your team needs.
+
+OTP verified
+Real phone numbers, not fake sign-ups.
+
+- Two windows
+Registration window and exam window, set separately.
+
+Automations
+Registration, reminder, start and result messages.
+
+Rank lists
+Leaderboard with percentile, ready for scholarships.
+
+## Questions about open registration tests
+Can anyone take an open test without an account? +
+Candidates register on the public page and create an account with OTP verification. That's what gives you verified contact details for every test-taker.
+
+Can I collect a registration fee? +
+Not inside the test registration today. Most institutes run free scholarship and talent tests as lead magnets. Ask us if fee collection matters for your exam.
+
+Can I add custom questions to the registration form? +
+Yes. Add the fields you need, and they appear in participant exports alongside marks, rank and percentile.
+
+Can registrants get reminders on WhatsApp? +
+Yes, through Automations: registration, starting-soon, started and result messages by WhatsApp, email or push.
+
+## Works hand in hand with
+Online exams Timed, sectioned exams that survive a dropped connection. Results & analytics Rank, percentile, question insights, AI reports. AI proctoring On-device face checks, snapshots and auto-submit rules.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Coding Test Platform for Hiring and Education | Examezy
+URL: https://examezy.com/coding-tests/
+
+- Home
+- / Platform
+- / Coding tests
+Coding tests
+
+# Coding rounds that grade themselves.
+Add coding questions to any test. Candidates write and run code inside the exam, marks come from hidden test cases, and the same paper can carry aptitude MCQs and a camera-proctored setting.
+Book a demo See how it works
+
+- Python, JS, C, C++, Java, Go
+- Hidden test cases
+- Marks per test case passed
+- Mix with MCQs
+
+Coding · Q2 · Two Sum · Python
+Run
+1 def two_sum(nums, target):
+2 seen = {}
+3 for i, n in enumerate(nums):
+4 if target - n in seen:
+5 return [seen[target - n], i]
+6 seen[n] = i
+7
+Hidden tests
+
+8 / 10 marks
+8 of 10 test cases passed
+Python JS C C++ Java Go
+
+Write & run
+
+## An editor inside the exam, not a link to another site
+Candidates write code in the exam screen and run it against sample cases. Python and JavaScript run right in the browser; C, C++, Java and Go run on a judge server.
+
+- A Python
+- B JavaScript
+- C C
+- D C++
+- E Java
+- F Go
+
+Grade
+
+## Partial credit that reflects partial solutions
+Marks are proportional to the hidden test cases passed, so a solution that handles most cases earns most marks. Scores are recomputed on the server against the test cases you wrote.
+
+Report · Full Mock 12 · Kabir Singh
+Released
+212
+of 300
+
+Rank
+14
+of 1,208
+
+Percentile
+98.9
+
+Accuracy
+79%
+
+Physics you 78 · class avg 61
+
+Chemistry you 64 · class avg 58
+
+Maths you 70 · class avg 52
+
+Correct 54 Incorrect 14 Skipped 7 Class average
+
+Whole round
+
+## Aptitude, coding and proctoring in one test
+Put an MCQ aptitude section and a coding section in the same paper, each with its own timer. Turn on camera proctoring, and full-screen and tab-switch rules apply throughout. Generate coding problems with AI to grow your bank faster.
+
+Proctoring · Riya Kapoor · attempt review
+Flags 2 / 5
+1 face on device
+Faces are counted on the candidate's device. Snapshot every 60 s and at each flag. No video.
+
+- 00:00 Camera check-in
+- 12:41 Tab switch (1 of 3)
+- 27:09 No face for 6 s
+- 27:15 Face back in view
+- 41:52 2 faces detected
+
+Full screen enforced Copy & paste blocked Auto-submit after 5 flags
+
+## Everything in coding tests
+Six languages
+Python, JavaScript, C, C++, Java, Go.
+
+Hidden test cases
+Candidates can't hard-code the answers.
+
+Proportional marks
+Per test case passed.
+
+AI-generated problems
+Draft new coding questions fast.
+
+Proctored
+Camera checks and browser rules.
+
+Rank lists
+Shortlist straight from the leaderboard.
+
+## Questions about coding tests
+Which programming languages are supported? +
+Python, JavaScript, C, C++, Java and Go.
+
+How are coding answers marked? +
+Against hidden test cases you write. Marks are proportional to the number of test cases passed, and scoring is repeated on the server.
+
+Can I combine coding with aptitude questions? +
+Yes. A test can have an MCQ section and a coding section, each with its own timer.
+
+Do you detect copied code between candidates? +
+Not today. Integrity comes from proctoring (camera checks, full-screen and tab-switch rules) and shuffled question order.
+
+## Works hand in hand with
+Question types MCQ, numeric, one word, long answer, coding, passages. AI proctoring On-device face checks, snapshots and auto-submit rules. Open registration tests Public test pages with your own form and window.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How Online Exams Work on Examezy, Step by Step | Examezy
+URL: https://examezy.com/how-it-works/
+
+- Home
+- / How it works
+How it works
+
+# How an exam runs on Examezy, start to finish.
+Seven steps, one platform. Here's exactly what happens from the moment you start a paper to the moment a student opens their report.
+Book a demo See every feature
+
+Create assessment · Half-yearly Physics
+
+- Basic info
+- 2 Sections & questions
+- 3 Participants
+- 4 Access
+Section A · Objective 40 min · 20 Q · +2 / −0.5
+Negative marking Random order Section timer Cutoff marks
+
+Section B · Long answer 80 min · 6 Q · AI checking on
+
+Duration per section · auto-submit at time-out
+
+1 Create 2 Schedule 3 Invite 4 Proctor 5 Evaluate 6 Publish 7 Analyse
+Step 1 of 7 · Create
+
+### Build the paper in minutes
+Pick from your question bank, import a Word file, or let AI draft a balanced paper from your own books.
+
+- 7 question types + passages
+- Sections, marks, negative marking
+- AI generation with source pages
+Learn more Next: Schedule
+
+Create assessment · Half-yearly Physics
+
+- Basic info
+- 2 Sections & questions
+- 3 Participants
+- 4 Access
+Section A · Objective 40 min · 20 Q · +2 / −0.5
+Negative marking Random order Section timer Cutoff marks
+
+Section B · Long answer 80 min · 6 Q · AI checking on
+
+Duration per section · auto-submit at time-out
+
+Step by step
+
+## The detail behind each step
+Every setting below is configurable per assessment, so a weekly quiz and a scholarship test can live side by side with different rules.
+
+- 1 Create the assessment A four-step wizard: basic info (type, window, duration, result release), sections and questions, participants and notifications, and access control. It stays a draft until you publish.
+- 2 Add questions Pick from the question bank, import a Word file, digitise a printed paper, or generate with AI from your material. Set marks, negative marking, cutoffs and order per section.
+- 3 Choose who takes it Assign batches or individuals, or open a public registration page with your own form, a registration window and OTP verification.
+- 4 Set the rules Timers per test, section or question; auto-submit; section switching; full screen and tab-switch limits; camera proctoring with your violation limit.
+- 5 Run the exam Candidates write in the browser with autosave. You watch Attempted, Ongoing and Pending live, send reminders and grant reattempts.
+- 6 Evaluate Objective answers are marked on submit. Teachers check long answers and uploaded sheets on screen, or review AI-drafted marks.
+- 7 Release and analyse Release on submit, at the end of the window or manually. Students get rank, percentile and a detailed report; you get insights, exports and the dashboard.
+
+Online, paper or both
+
+## The same flow, wherever the exam is written
+Paper exams follow the same seven steps; the only difference is that answer sheets arrive as scanned PDFs and are checked on screen or by AI.
+
+- Online Paper Hybrid
+Written in the browser, marked on submit
+
+- 1 Candidates write on laptop, tablet or phone
+- 2 Answers autosave; proctoring rules apply
+- 3 Objective answers marked instantly
+- 4 Long answers checked on screen or by AI
+- 5 Report with rank and percentile
+
+## From the blog
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam Software Features: The Complete List | Examezy
+URL: https://examezy.com/features/
+
+- Home
+- / All features
+All features
+
+# Every feature, listed. Nothing we don't have.
+The complete Examezy feature list, grouped the way you'll use it. Click any group for the detail.
+Book a demo See how it works
+
+MCQ · single A B C D
+MCQ · multiple A B C D
+True / false True False
+Numeric 12.5
+One word mitochondria
+Long answer
+Coding def f(x):
+Passage-based Passage → 4 Q
+
+## Online exams
+
+Details
+
+- Sections. Each with its own duration, default marks, negative marking and cutoff.
+- Negative marking. Set the penalty per section; unattempted questions score zero.
+- Random question order. Shuffle questions within a section so neighbours see different orders.
+- Reading time. A timed preview of the paper before the exam clock starts.
+- Browser restrictions. Full screen, tab-switch warnings, copy and right-click blocked.
+- Reminders. Starting-soon and started emails, plus WhatsApp through automations.
+- Instant results. Release on submit, at the end of the window, or when you choose.
+- Batches or open links. Assign to batches and individuals, or open a public registration page.
+
+## AI proctoring
+
+Details
+
+- Light on bandwidth. Only small snapshots travel, so it works on ordinary home connections.
+- Privacy by design. Faces are counted on the device. Nothing is streamed live.
+- Event log. Tab switch, full-screen exit, camera lost, no face, multiple faces, auto-submitted.
+- Per assessment. Off unless you choose it, so practice tests stay friction-free.
+- Shuffled orders. Random question order per section; shuffled sets for printed papers.
+- Fails safe. If the camera hiccups, it records less. It never blocks an honest candidate.
+
+## Question types
+
+Details
+
+- MCQ (single correct). Full marks for the right option, the section's penalty for a wrong one.
+- MCQ (multiple correct). Candidates pick every correct option.
+- True / false. Quick checks of a concept, auto-marked.
+- Numeric. Integer, decimal or single-digit answers, several accepted values.
+- One word. Short typed answers, matched ignoring case and spacing.
+- Long answer. Teacher-checked, or AI-graded against a rubric.
+- Coding. Six languages, hidden test cases, proportional marks.
+- Passage-based. Comprehension versions of MCQ and numeric questions.
+
+## Question bank
+
+Details
+
+- Powerful filters. Type, difficulty, subject, tags, date and source.
+- Reuse without copying. One question, many tests, each with its own marks.
+- Word import. Marker-based import of whole papers.
+- Digitise printed papers. Photo or PDF of a paper into editable questions.
+- AI generation. From documents, images, audio, topics or your knowledge base.
+- Explanations. Add a solution once; candidates see it in their review.
+
+## AI question paper generator
+
+Details
+
+- Up to 120 questions. A full-length paper in one go.
+- Cited sources. Page references for knowledge-base questions.
+- Print-ready. Download a paper PDF, or run it online.
+- Coding questions too. Generate programming problems with test cases.
+- Chat to refine. Ask for harder, shorter or more application-based questions.
+- Into your bank. Everything generated is saved and tagged for reuse.
+
+## Paper & offline exams
+
+Details
+
+- Print-ready PDF. Sets, keys and header fields.
+- PDF answer sheets. Uploaded by the student or by an admin.
+- On-screen checking. Pen, tick, cross, text, shapes, calculator.
+- AI checking. Handwriting read, marked, checked copy returned.
+- Offline result entry. Enter responses or import a ZIP of results (on request).
+- One set of reports. Paper and online results side by side.
+
+## Evaluation & marking
+
+Details
+
+- Evaluator access. Choose who evaluates each test, by role or by name.
+- Re-evaluation. Whole test, selected candidates or selected questions.
+- Evaluation backlog. See what's checked, by whom, and what's waiting.
+- Remarks. Feedback per question, visible after release.
+- Result holds. Nothing released until you say so.
+- Release alerts. Result emails with the report PDF attached.
+
+## AI answer-sheet checking
+
+Details
+
+- 200 copies per upload. PDF scans from any scanner or phone app.
+- No guessing. Unmatched copies wait for a teacher.
+- Maths-aware. Equations and working read line by line.
+- Red-pen copy. Ticks, crosses, notes and the total, on the student's own sheet.
+- Minutes, not weeks. Typically 1–8 minutes per handwritten copy.
+- Pay per copy. Cost previewed first; failures free.
+
+## Results & analytics
+
+Details
+
+- Leaderboard. Rank, percentile, marks and time; CSV and PDF.
+- Overview. Attempted, ongoing, average marks and time.
+- Bulk report ZIP. One PDF per student, plus an index.
+- AI diagnostics. Misconceptions, topic accuracy, thinking skills.
+- Survey reports. Option percentages and free-text answers.
+- Result alerts. Release emails with PDF; WhatsApp via automations.
+
+## Open registration tests
+
+Details
+
+- Public link. Share anywhere: ads, WhatsApp groups, school visits.
+- Custom form. Ask for exactly the details your team needs.
+- OTP verified. Real phone numbers, not fake sign-ups.
+- Two windows. Registration window and exam window, set separately.
+- Automations. Registration, reminder, start and result messages.
+- Rank lists. Leaderboard with percentile, ready for scholarships.
+
+## Coding tests
+
+Details
+
+- Six languages. Python, JavaScript, C, C++, Java, Go.
+- Hidden test cases. Candidates can't hard-code the answers.
+- Proportional marks. Per test case passed.
+- AI-generated problems. Draft new coding questions fast.
+- Proctored. Camera checks and browser rules.
+- Rank lists. Shortlist straight from the leaderboard.
+
+## And everything around the exam
+Assessment types
+
+- Exam (fixed live window)
+- Mock (always open, fixed duration)
+- Practice (untimed)
+- Survey (no right answers)
+- Paper exam with uploaded answer sheet
+- Homework
+- Tests inside Vacademy courses
+
+Settings
+
+- Duration per test, section or question
+- Reading time before the clock starts
+- Auto-submit at time-out
+- Lock or allow section switching
+- Negative marking and cutoffs per section
+- Random question order
+- Release on submit, at window end or manually
+- Public or private
+- Reattempts granted per learner
+
+Admin & access
+
+- Who edits, gets alerts, sees reports and evaluates, per test
+- Batches and individual learners
+- Public registration with custom fields and OTP
+- Monitoring console: Attempted, Ongoing, Pending
+- Reminders, close submissions, remove participants
+- Reattempt request inbox
+- White-label portal with your domain
+
+Automations
+
+- Triggers: created, published, starting soon, started, ended
+- Registration and result-released triggers
+- Reattempt requested / granted
+- AI evaluation completed
+- WhatsApp, email and push messages
+- Result emails with the report PDF
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Examezy Pricing: Plans Built Around Your Exams | Examezy
+URL: https://examezy.com/pricing/
+
+- Home
+- / Pricing
+Pricing
+
+# Priced around your exams, not around a feature list.
+Every plan includes the whole platform. What changes is how many candidates you test and how much AI checking you use. Tell us your exam calendar and we'll send a quote, usually within a working day.
+Book a demo Get a quote
+
+In every plan
+
+## The whole platform
+
+- Online, mock, practice, survey and paper exams
+- All 7 question types plus passage-based questions
+- Question bank, Word import and AI question generation
+- Full-screen, tab-switch and camera proctoring
+- Auto-marking and on-screen teacher evaluation
+- Reports, leaderboards, question insights, bulk report ZIP
+- Public registration pages and automations
+- Onboarding help to set up your first paper
+
+What sets the price
+
+## Four things decide your quote
+1 Candidates How many people take tests with you in a year. This sets the size of your plan.
+2 Exam calendar Weekly tests, monthly mocks or a few big events: we size for your peaks.
+3 AI checking Paid per copy checked, by the number of questions, with the cost shown before you run it. Failed and unreadable copies are free.
+4 Branding Your own domain and branded portal, if you want one.
+
+Start with a pilot
+Send us a past paper. We'll set it up as a test so you can run it with one batch before you decide.
+Book a demo
+
+## Get a quote
+Tell us roughly how many candidates you test and what kinds of exams you run. We'll reply with a quote and a time for a short demo.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam Software FAQ: Proctoring, Evaluation, Results | Examezy
+URL: https://examezy.com/faq/
+
+- Home
+- / FAQ
+FAQ
+
+# Straight answers about running exams on Examezy.
+Proctoring, internet drops, paper exams, AI checking, results, scale and pricing. If your question isn't here, ask us on WhatsApp.
+Book a demo See how it works
+
+## The platform
+What is Examezy? +
+Examezy is an online exam and assessment platform for institutes and hiring teams. You create the paper, schedule it, invite or register candidates, proctor it, evaluate it automatically, on screen or with AI, and publish results with reports, all in one place. It's built by the team behind Vacademy.
+
+What kinds of tests can I run? +
+Live exams in a fixed window, self-paced mock tests with a fixed duration, untimed practice tests, surveys, and paper exams where candidates upload their written answer sheet. Tests can also be embedded inside Vacademy courses.
+
+Which question types are supported? +
+MCQ with one correct answer, MCQ with multiple correct answers, true/false, numeric, one word, long answer and coding, plus passage-based versions of MCQ and numeric questions. Questions support rich text and images.
+
+Can I import my existing question papers? +
+Yes. Import Word documents with simple markers, digitise printed or scanned papers with the AI extractor, or generate new questions with AI from your own material.
+
+Does it work on our own domain and brand? +
+Yes, through Vacademy's white-label portals with your domain, logo and colours.
+
+## Exam day
+How many candidates can write at the same time? +
+We load-tested the full exam journey on production with 1,000 simultaneous test-takers: zero errors, every attempt submitted and graded. If you plan a bigger single-window event, we'll plan capacity with you.
+
+What happens if a candidate's internet drops? +
+Answers are saved on the device and synced to the server. The candidate sees that their answers are safe, submission retries automatically, and an interrupted attempt can be resumed. Starting the test needs a connection.
+
+Do candidates need to install anything? +
+No. Examezy runs in any modern browser on a laptop, tablet or phone.
+
+Can I watch the exam live? +
+Yes. The monitoring console shows who has attempted, who is writing now and who hasn't started, with reminders, reattempts and closing submissions one click away.
+
+Can I give a student a second attempt? +
+Yes. Grant a reattempt from the monitoring console. Students can also request one, and requests land in an inbox for you to approve.
+
+## Proctoring
+How does Examezy stop cheating? +
+Every online test forces full screen, warns on tab switches and auto-submits on the third, and blocks copy, paste, right-click and text selection. Camera proctoring adds a check-in selfie, face checks on the device, and snapshots at an interval you choose.
+
+Is video recorded? +
+No. Faces are counted on the candidate's device and only small still snapshots are uploaded. No video is streamed or stored.
+
+Can a candidate be auto-submitted for camera flags? +
+If you choose. Set a limit of 3, 5 or 10 flags, or record only and let a teacher review the timeline.
+
+Do you have a lockdown browser or ID verification? +
+Not today. Integrity comes from browser rules and camera checks. We'll tell you honestly in the demo whether that's enough for your exam.
+
+## Evaluation & results
+Which answers are marked automatically? +
+MCQs, true/false, numeric, one word and coding are marked on submit. Long answers and uploaded answer sheets go to teachers, or to AI checking if you turn it on.
+
+How does AI checking work? +
+AI reads handwritten copies or typed long answers, marks each answer against a rubric and your model answer, and writes feedback. Handwritten copies come back checked in red pen. Marks are drafts until a teacher reviews and releases them.
+
+What does AI checking cost? +
+It's paid per copy based on the number of questions, with the cost shown before you run it. Failed, cancelled and unreadable copies are free.
+
+Can I fix an answer key after the exam? +
+Yes. Correct the key and re-evaluate the whole test, selected candidates, or selected questions.
+
+What do students see in their report? +
+Score, rank, percentile, comparison with the class average and topper, accuracy and time per section, a question-wise review with explanations, how the class answered each question, their checked copy, and an AI report with strengths, misconceptions and a learning path.
+
+Can I export results? +
+Yes: leaderboards and participant lists as CSV or PDF, question insights as PDF, and a ZIP with one report PDF per student.
+
+## Paper exams
+Can I use Examezy for pen-and-paper exams? +
+Yes. Print the paper in multiple shuffled sets with an answer key, collect answer sheets as PDFs, check them on screen or with AI, and publish results online.
+
+Does Examezy scan OMR sheets? +
+No. Examezy works with written answer sheets, not OMR bubble sheets.
+
+How are scanned copies matched to students? +
+Upload up to 200 PDFs at once; AI reads the name and roll number on each copy and matches it to your class list. Anything unclear waits for a teacher.
+
+## Buying
+How much does Examezy cost? +
+Plans are sized to the number of candidates and exams you run, and AI checking is paid per copy. Book a demo and we'll send a quote for your exam calendar.
+
+Can we try it before committing? +
+Yes. Send us a past paper and we'll set it up as a test, so you can run a pilot exam with one batch.
+
+How long does setup take? +
+You can run a first test as soon as your questions and candidates are in. We help you import your first paper and set it up during onboarding.
+
+Who is behind Examezy? +
+Examezy is built by Vidyayatan Technologies, the team behind the Vacademy learning platform.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam & Assessment Glossary: 40 Terms Explained | Examezy
+URL: https://examezy.com/glossary/
+
+- Home
+- / Exam glossary
+Exam glossary
+
+# Online exam terms, in plain English.
+Forty terms exam heads, teachers and HR teams run into, from answer keys to tab switching, each with a one-line definition.
+Book a demo See how it works
+
+A B C D E F H I L M N O P Q R S T A
+Answer keyThe list of correct answers for objective questions, used to mark them. A wrong key is fixed by correcting it and re-evaluating. Re-evaluation →
+Answer sheetThe paper on which a candidate writes answers in a written exam; in online marking it is scanned into a PDF. Paper exams →
+Assertion-reason questionA question pairing a statement with a reason; the candidate chooses whether each is true and whether the reason explains the assertion. Usually set as a single-correct MCQ.
+Auto-submitSubmitting a test automatically when time runs out or after a set number of integrity violations. Online exams →
+
+B
+Bloom's taxonomyA ladder of thinking skills (remember, understand, apply, analyse, evaluate, create) used to balance a paper beyond recall. AI reports →
+BlueprintA table that fixes marks per unit, question type and difficulty before questions are written. Blueprint guide →
+
+C
+Comprehension (passage-based) questionQuestions that refer to a shared passage, data set or case study shown alongside them. Question types →
+Computer-based test (CBT)An exam taken on a computer rather than on paper, usually in a supervised centre.
+CutoffThe minimum marks needed to qualify, set for a whole test or for each section.
+
+D
+Diagnostic testA test designed to find gaps in understanding rather than to rank, usually given before teaching.
+
+E
+EvaluatorThe person who checks and marks subjective answers. Access to evaluate is usually controlled per exam.
+
+F
+Formative assessmentFrequent, low-stakes checks during learning, such as quizzes and practice tests, used to guide teaching.
+
+H
+Hidden test casesInputs used to mark a coding answer that the candidate cannot see, so solutions can't be hard-coded. Coding tests →
+
+I
+Item analysisStudying each question's results (how many got it right, which wrong options were chosen) to judge its quality and the class's understanding. Question insights →
+
+L
+LeaderboardA ranked list of candidates by marks, often with time taken and percentile.
+Live windowThe fixed period in which a scheduled exam can be started and written.
+
+M
+Marking schemeThe rules for awarding marks: points expected per answer, step marks and penalties.
+Mark for reviewA flag a candidate puts on a question to return to it before submitting.
+MCQ (multiple choice question)A question with options from which the candidate picks one (single correct) or several (multiple correct) answers.
+Mock testA full-length rehearsal of a real exam with the same pattern, timing and marking. Mock test series →
+Model answerA teacher's ideal answer to a subjective question, used to guide marking.
+
+N
+Negative markingDeducting marks for wrong answers to discourage guessing. Negative marking explained →
+Numeric answer typeA question answered by typing a number instead of choosing an option.
+
+O
+OMR (optical mark recognition)Reading filled bubbles on printed answer sheets with a scanner. Different from checking written answers on screen.
+On-screen marking (OSM)Checking scanned answer sheets on a computer instead of on paper. On-screen checking →
+Open registration testA test anyone can register for through a public link, often used for scholarships and admissions. Open registration →
+
+P
+PercentileThe percentage of test-takers who scored at or below a given candidate. Rank vs percentile →
+Practice testAn untimed, always-open test meant for learning rather than ranking.
+ProctoringSupervising an exam to keep it fair, in person or remotely through browser rules and camera checks. AI proctoring →
+
+Q
+Question bankA searchable store of questions, tagged by topic, type and difficulty, used to build papers. Question bank →
+Question paletteThe grid of question numbers on an exam screen showing which are answered, unanswered or marked for review.
+
+R
+RandomisationShuffling question order (or printing different sets) so neighbouring candidates see different papers.
+Re-evaluationMarking answers again, for example after a corrected answer key or a candidate's request.
+Reading timeA short timed preview of the paper before the exam clock starts.
+Remote proctoringProctoring candidates who write from home, using their own device's browser and camera.
+RubricA breakdown of what earns marks in a subjective answer, criterion by criterion. AI checking →
+
+S
+SectionA part of a paper with its own questions and, often, its own timer, marks and cutoff.
+Summative assessmentA test at the end of a unit, term or course that measures what was learned, such as a term exam.
+
+T
+Tab switchingLeaving the exam tab for another tab or app, which proctoring tools detect and limit.
+Test seriesA planned sequence of tests, usually chapter tests building to full mocks, before a competitive exam.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# The Examezy Blog: Guides to Running Better Exams | Examezy
+URL: https://examezy.com/blog/
+
+- Home
+- / Blog
+The Examezy blog
+
+# Guides to running better exams.
+Practical, no-fluff advice for exam heads, coaching owners, teachers and HR teams.
+
+Guides · Featured
+
+## How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+A practical checklist for conducting online exams: choosing the format, building the paper, timing, marking rules, proctoring, a dry run, exam-day monitoring, evaluation and publishing results.
+Read the guide
+Proctoring
+
+## Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+An honest guide to online proctoring methods (browser rules, camera snapshots, AI face detection, live invigilators, lockdown browsers): what each catches, its cost to candidates, and how to choose.
+8 min read Question papers
+
+## Negative Marking Explained: How to Set It and When Not To
+What negative marking is, how common schemes like +4/−1 and +1/−0.25 work, the maths of guessing, and when negative marking helps or hurts your test.
+6 min read Results
+
+## Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Rank and percentile explained for students and coaching institutes: how each is calculated, how ties work, why percentile travels between test sizes, and how to read both in a mock test report.
+6 min read Question papers
+
+## How to Make a Question Paper Blueprint (with a Weightage Table Template)
+A step-by-step guide to designing a question paper blueprint: unit weightage, question types, difficulty and cognitive levels, with a sample blueprint table you can copy.
+7 min read Evaluation
+
+## How Schools Cut Answer-Sheet Checking Time Without Lowering Standards
+Practical ways to reduce the hours teachers spend checking answer sheets: better papers, marking schemes, objective sections, on-screen marking and AI-drafted marks with teacher review.
+7 min read Results
+
+## How to Analyse a Mock Test: A Step-by-Step Method for Students
+A method for analysing mock tests that actually raises scores: sort every question into four buckets, track silly mistakes, time per section, and turn the analysis into a plan before the next mock.
+6 min read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Exam Integrity, Security and Privacy on Examezy | Examezy
+URL: https://examezy.com/security/
+
+- Home
+- / Security & privacy
+Security & privacy
+
+# Fair exams, private candidates, results you control.
+How Examezy protects exam integrity and candidate privacy, and, just as important, what we don't claim.
+Book a demo See how it works
+
+Fair conditions on every test
+Online tests open in full screen. Tab switches are warned and the third submits the test. Copy, paste, right-click and text selection are blocked in the exam.
+
+Camera checks without surveillance
+When camera proctoring is on, faces are counted on the candidate's own device. Only small still snapshots are uploaded, at the interval you choose and when a flag is raised. No video is streamed or recorded.
+
+Access per assessment
+For each test you decide who can edit it, who gets live alerts, who can see submissions and reports, and who evaluates, by role or by named person.
+
+Results held until you release
+Results go out on submit, at the end of the window, or only when you release them. AI-drafted marks stay drafts until a teacher reviews them; learners see nothing before release.
+
+Verified candidates on open tests
+Candidates on public registration pages create an account and verify their phone by OTP before they can take the test.
+
+## What we don't claim
+Security pages are full of badges. Here's what you won't see on ours, so you can plan around it. If your exam needs any of these, ask us before you buy.
+
+- ISO 27001, SOC 2 or similar certifications
+
+- A data-residency guarantee
+
+- A lockdown browser, ID matching against a photo, or live human invigilation
+
+- Detection of phones or other people outside the camera's view
+
+## Privacy for candidates
+Tell candidates what you collect and why. With camera proctoring that means a check-in selfie and occasional snapshots; without it, nothing beyond their answers and the events of the attempt (such as tab switches). Examezy is operated by Vidyayatan Technologies LLP under the Vacademy privacy policy .
+
+## From the blog
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# About Examezy | Examezy
+URL: https://examezy.com/about/
+
+- Home
+- / About
+About
+
+# Exams made easy, for the people who run them.
+Examezy is the exams and assessments platform from the team behind Vacademy. We built it for exam heads, coaching owners, teachers and HR teams who are tired of stitching an exam together from five tools.
+Book a demo See how it works
+
+## Why we built it
+Every institute we work with runs exams. Most were doing it with a form tool for online tests, Word for papers, a weekend of checking, Excel for rank lists and WhatsApp for results. Each tool is fine; together they cost teachers their evenings and students their feedback.
+Examezy puts the whole exam in one place, online or on paper, and uses AI where it saves real hours (writing papers, checking copies, explaining results) while keeping a person in charge of every mark.
+
+## How we work
+
+- We only claim what the product does today. Our home page lists what we don't do yet.
+- AI drafts; teachers decide.
+- Candidates' privacy is part of fairness: no video streaming, ever.
+
+The family
+Vacademy The learning platform: courses, live classes, community. Evalezy AI checking of handwritten answer sheets, with an API. Tutezy A personalised AI tutor for every student. Telleo AI calling for admissions and follow-ups. VoomSales An admissions CRM built for institutes.
+
+Examezy is built by the team behind Vacademy, the learning and assessment platform used by schools, coaching institutes, online academies and training institutes across 5 countries.
+
+- SSDC
+- Code Circle
+- Aanandham
+- The 7Cs
+- VET Education
+- Edu Stream
+- Five SAP
+- Jump Start
+- Read on Rent
+- StemX
+- Enark Uplift
+- Shiksha Nation
+- Dzumo
+- Agilore Global
+- Be Bright
+- Brahm Varchas
+- Dumbee
+- Elevate
+- HCCA
+- The Learning Bridge
+- Oui Académie
+- Sreedhar's TTS
+- Smart AI Academy
+- Suchbliss
+- Vasco Maritime Career Institute
+
+Book a demo
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Book an Examezy Demo | Examezy
+URL: https://examezy.com/demo/
+
+- Home
+- / Book a demo
+Book a demo
+
+# See your next exam running on Examezy.
+Tell us a little about your exams and we'll set up a demo around them. We usually reply within one working day.
+A 30-minute walkthrough The exam screen, proctoring, evaluation and reports, shaped to your exams.
+Your paper, as a test Send a past paper; we'll set it up so you see your own questions running.
+A pilot with one batch Run a real exam with one group before you decide.
+
+Prefer to talk now? WhatsApp +91 99933 36616 or email hello@examezy.com .
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+Examezy is built by the team behind Vacademy, the learning and assessment platform used by schools, coaching institutes, online academies and training institutes across 5 countries.
+- SSDC
+- Code Circle
+- Aanandham
+- The 7Cs
+- VET Education
+- Edu Stream
+- Five SAP
+- Jump Start
+- Read on Rent
+- StemX
+- Enark Uplift
+- Shiksha Nation
+- Dzumo
+
+- Agilore Global
+- Be Bright
+- Brahm Varchas
+- Dumbee
+- Elevate
+- HCCA
+- The Learning Bridge
+- Oui Académie
+- Sreedhar's TTS
+- Smart AI Academy
+- Suchbliss
+- Vasco Maritime Career Institute
+
+Pause logos
+
+
+---
+
+# Who Uses Examezy: Coaching, Schools, Colleges, Hiring Teams | Examezy
+URL: https://examezy.com/for/
+
+- Home
+- / Who it's for
+Solutions
+
+# One exam platform, shaped to the way you test.
+How coaching institutes, schools, colleges, hiring teams, training and certification bodies and edtech companies run their exams on Examezy.
+
+## Coaching institutes
+A test series your students will measure themselves by.
+See how
+
+## Schools
+From unit test to pre-board, without the weekend of checking.
+See how
+
+## Colleges & universities
+Internal assessments that run themselves, semester after semester.
+See how
+
+## Hiring & HR teams
+Shortlist on skill, not on CVs.
+See how
+
+## Training & certification
+Assessments your certificates can stand on.
+See how
+
+## EdTech & test publishers
+Your brand on the test. Our engine underneath.
+See how
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Test Series Software for Coaching Institutes (JEE, NEET, Boards) | Examezy
+URL: https://examezy.com/for/coaching-institutes/
+
+- Home
+- / Who it's for
+- / Coaching institutes
+For coaching institutes
+
+# A test series your students will measure themselves by.
+Weekly tests, full-length mocks, scholarship tests and doubt-clearing reports, run from one platform. Students get rank and percentile minutes after they submit; your faculty get the questions the batch got wrong.
+Book a demo See the workflow
+
+Leaderboard · All-India Mock 3 · 1,208 students
+CSV · PDF
+
+- 1 Kabir Singh 286/300 99.9
+- 2 Ananya Rao 281/300 99.8
+- 3 Mohd. Faiz 279/300 99.8
+- 4 Ishita Das 274/300 99.7
+- 5 Rohan Gupta 270/300 99.6
+Percentile shown per student Report ZIP
+
+Sound familiar?
+
+## What gets in the way today
+Results take a week, by which time nobody cares
+Paper mocks get checked over the weekend, rank lists are made in Excel, and by the time results are out the next test is due.
+
+The test series doesn't feel like the real exam
+Students need section timers, negative marking and an exam-style palette to build temperament. Google Forms gives them none of it.
+
+Scholarship tests are a spreadsheet nightmare
+Registrations come in from forms, WhatsApp and walk-ins, and nobody knows who actually wrote the test.
+
+How it works for you
+
+## Your exam cycle on Examezy
+
+- Results on the same day as the test, not the next week
+- A mock series that rehearses timing and negative marking
+- Scholarship test registrants as verified, exportable leads
+- Faculty teaching from question-level data
+
+- 1 Build the paper Import past papers from Word, pick from your question bank or generate a chapter test with AI from your own notes.
+- 2 Set it up like the real exam Physics, Chemistry and Maths sections with their own marks, negative marking, numeric-answer questions and a palette candidates already know.
+- 3 Run it Students write at home or in your centre. Answers autosave; tab switches and camera checks keep it honest.
+- 4 Publish rank and percentile instantly Release the moment the window closes. Every student sees rank, percentile, accuracy, time per section and how the class answered each question.
+- 5 Teach from the data Question insights and the AI class diagnostic show which concepts the batch got wrong, so the next class starts from there.
+
+## The parts coaching institutes use most
+Online exams Exam-style sections, timers and palette. Results & analytics Rank, percentile and question insights within minutes. Open registration tests Scholarship tests with registration pages and automated reminders. AI question paper generator Chapter tests from your own material in minutes.
+Popular use cases
+Mock test series Scholarship & entrance tests Practice tests & homework
+
+## Questions coaching institutes ask
+Can't see yours? Ask us in the demo, or read the full FAQ .
+
+Can I set JEE-style numeric-answer questions? +
+Yes. Numeric questions accept integer or decimal answers, with more than one accepted value if needed, and are auto-marked.
+
+Can students see their all-batch rank? +
+Yes. Reports show rank and percentile among everyone who took the test, plus comparison with the class average and the topper.
+
+Can I run the same test online for some students and on paper for others? +
+Yes. Print the paper in shuffled sets for your centre, and run it online for students at home. Paper copies can be checked on screen or by AI, so results live in the same place.
+
+Can parents get the result on WhatsApp? +
+Result release can trigger WhatsApp messages through Automations, with rank and percentile.
+
+Book a demo
+
+## See it with your own paper
+Tell us about your exams. In 30 minutes we'll show you the exam screen, proctoring, evaluation and reports, set up the way coaching institutes work.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Exam Management Software for Schools: Online and Paper Exams | Examezy
+URL: https://examezy.com/for/schools/
+
+- Home
+- / Who it's for
+- / Schools
+For schools
+
+# From unit test to pre-board, without the weekend of checking.
+Most school exams are still written on paper, and that's fine. Examezy prints the paper, helps teachers check the copies on screen or with AI, and turns marks into report PDFs and class insights, with online quizzes for everything in between.
+Book a demo See the workflow
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET B
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Half-yearly Examination
+Class IX · Mathematics · 80 marks · 3 h
+
+SET A
+Roll no. Invigilator's sign
+1.
+2.
+3.
+4.
+
+Export ready
+2 sets · shuffled · answer key
+
+Sound familiar?
+
+## What gets in the way today
+Teachers lose weekends to checking copies
+A teacher with five sections and a 40-mark paper checks hundreds of copies every term, by hand, on top of teaching.
+
+Marks live in registers, not in decisions
+Nobody can see which chapter the whole grade struggled with until the report cards are already printed.
+
+Parents want more than a number
+A total out of 80 says little about what the child should practise next.
+
+How it works for you
+
+## Your exam cycle on Examezy
+
+- Copies checked in hours instead of weekends
+- A report PDF for every student, in one download
+- Chapter-level insight before the next term starts
+- Online quizzes and homework on the same platform
+
+- 1 Set the paper Write it, import it from Word, or generate it with AI from your textbook with chapter weightage you choose.
+- 2 Print it in sets Export multiple shuffled sets with roll number and invigilator fields, plus the answer key.
+- 3 Scan the copies Scan the stack and upload it. AI matches each copy to the student by name and roll number.
+- 4 Check on screen or with AI Teachers mark with pen and ticks on screen, or review AI-drafted marks and red-pen checked copies.
+- 5 Share results Release results with a report PDF per student, and download every report in one ZIP for the PTM.
+
+## The parts schools use most
+Paper & offline exams Print shuffled sets and collect answer sheets as PDFs. AI answer-sheet checking AI drafts marks on handwritten copies; teachers approve. Results & analytics Report PDFs per student and question-level class insights. AI question paper generator Balanced papers from your textbook with page citations.
+Popular use cases
+School unit tests & term exams Practice tests & homework Olympiads & talent search
+
+## Questions schools ask
+Can't see yours? Ask us in the demo, or read the full FAQ .
+
+Do our exams have to move online? +
+No. Examezy is built for paper exams too: print the paper, scan the answer sheets, check them on screen or with AI, and publish results online.
+
+Can AI check handwritten answers in our subjects? +
+AI checking reads handwriting, including maths, and marks against a rubric. Every mark is a draft a teacher reviews. Try it on a few of your own copies in the demo.
+
+Can we generate papers from NCERT books? +
+Yes, AI paper generation works from your knowledge base, including textbooks, and cites the source page for each question.
+
+Can parents see the report? +
+Students can download their report PDF, and result release can trigger WhatsApp or email messages through Automations.
+
+Book a demo
+
+## See it with your own paper
+Tell us about your exams. In 30 minutes we'll show you the exam screen, proctoring, evaluation and reports, set up the way schools work.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Examination System for Colleges and Universities | Examezy
+URL: https://examezy.com/for/colleges-universities/
+
+- Home
+- / Who it's for
+- / Colleges & universities
+For colleges & universities
+
+# Internal assessments that run themselves, semester after semester.
+Give every department one place to build question banks, run proctored internal tests, evaluate answer scripts on screen and see results by batch and evaluator, without a separate tool for each step.
+Book a demo See the workflow
+
+Assessment dashboard · This month
+
+Live now
+3
+
+Attempts
+8,214
+
+Avg score
+61%
+
+To check
+146
+
+Submissions heatmap
+
+Follow up
+
+- Ananya R. 3 tests missed
+- Vivek P. Score down 22%
+- Zoya K. Not started
+
+Sound familiar?
+
+## What gets in the way today
+Every department runs exams differently
+Some use forms, some use paper, some use the LMS quiz, and nobody can compare results across batches.
+
+Evaluation is slow and hard to track
+Answer scripts move between evaluators by hand, and the exam cell can't see what's checked and what's pending.
+
+Integrity questions on online internals
+Without proctoring, online internal marks are hard to defend.
+
+How it works for you
+
+## Your exam cycle on Examezy
+
+- One exam workflow across departments
+- An evaluation backlog the exam cell can see
+- Proctored internals with reviewable evidence
+- Batch and evaluator analytics every semester
+
+- 1 Build shared banks Faculty contribute questions to an institute bank, tagged by subject and difficulty, reused across semesters.
+- 2 Schedule internals Fixed windows, section timers, negative marking and random question order, assigned to batches.
+- 3 Proctor online tests Full screen, tab-switch auto-submit and camera snapshots with a review timeline.
+- 4 Evaluate with control Assign evaluators per assessment. They mark scripts on screen; the exam cell watches the backlog.
+- 5 Analyse by batch and evaluator The dashboard shows score distributions, per-batch and per-evaluator statistics and students to follow up.
+
+## The parts colleges & universities use most
+AI proctoring Defensible online internals with snapshot timelines. Evaluation & marking On-screen evaluation and re-evaluation with access control. Question bank Shared banks across faculty and semesters. Results & analytics Department-wide dashboard and student reports.
+Popular use cases
+College internals & semester exams Campus & lateral hiring tests Surveys & feedback forms
+
+## Questions colleges & universities ask
+Can't see yours? Ask us in the demo, or read the full FAQ .
+
+Can we control which faculty evaluate which exam? +
+Yes. Each assessment's access settings decide who can edit it, who sees reports and who evaluates, by role or by named user.
+
+Can students upload handwritten answer scripts? +
+Yes. For remote written exams students upload one PDF; for hall exams the exam cell uploads scans.
+
+Can we use it for course feedback surveys? +
+Yes. Surveys are their own assessment type with a survey report of option percentages and free-text answers.
+
+Can it run on our own domain and brand? +
+Yes, Examezy runs on Vacademy's white-label portals with your domain and branding.
+
+Book a demo
+
+## See it with your own paper
+Tell us about your exams. In 30 minutes we'll show you the exam screen, proctoring, evaluation and reports, set up the way colleges & universities work.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Assessment Platform for Hiring: Aptitude and Coding Tests | Examezy
+URL: https://examezy.com/for/corporate-hiring/
+
+- Home
+- / Who it's for
+- / Hiring & HR teams
+For hiring & HR teams
+
+# Shortlist on skill, not on CVs.
+Send one link to every applicant. They register, take a proctored aptitude and coding test, and you get a ranked shortlist with snapshot timelines the moment the window closes.
+Book a demo See the workflow
+
+Coding · Q2 · Two Sum · Python
+Run
+1 def two_sum(nums, target):
+2 seen = {}
+3 for i, n in enumerate(nums):
+4 if target - n in seen:
+5 return [seen[target - n], i]
+6 seen[n] = i
+7
+Hidden tests
+
+8 / 10 marks
+8 of 10 test cases passed
+Python JS C C++ Java Go
+
+Sound familiar?
+
+## What gets in the way today
+Hundreds of CVs, no fair way to compare
+Screening by CV favours keyword-stuffing. A short test tells you more in 40 minutes than a stack of resumes.
+
+Unproctored tests invite help
+Without basic checks, take-home tests measure who has the best friend.
+
+Campus drives are chaos
+Collecting registrations, sending links, chasing no-shows and building rank lists eats the HR team's week.
+
+How it works for you
+
+## Your exam cycle on Examezy
+
+- A ranked shortlist the same day
+- Evidence for every flagged attempt
+- Campus drives without spreadsheet chaos
+- Coding skill measured, not claimed
+
+- 1 Open registration A public test page with your own fields: college, degree, graduation year, role applied for.
+- 2 Build the round An aptitude MCQ section and a coding section, each with its own timer.
+- 3 Proctor it Camera check-in, face checks, snapshots and auto-submit rules; full screen and tab-switch limits always on.
+- 4 Shortlist Rank list with percentile and section scores, exported with your registration fields.
+- 5 Review edge cases Open any attempt's proctoring timeline before you call the candidate.
+
+## The parts hiring & hr teams use most
+Coding tests Hidden test cases, six languages, proportional marks. AI proctoring Camera checks without video, auto-submit rules. Open registration tests One public link for every applicant. Results & analytics Rank lists and exports for the shortlist.
+Popular use cases
+Campus & lateral hiring tests Training & skill assessments
+
+## Questions hiring & hr teams ask
+Can't see yours? Ask us in the demo, or read the full FAQ .
+
+Can candidates take the test without an account? +
+Candidates register on your public page and verify by OTP, which gives you verified contact details for everyone who applied.
+
+Which coding languages can candidates use? +
+Python, JavaScript, C, C++, Java and Go.
+
+Do you offer psychometric or personality tests? +
+No. Examezy is for skill tests you author: aptitude, domain knowledge and coding.
+
+Can we review a flagged candidate? +
+Yes. Each attempt has a proctoring timeline with events and snapshots.
+
+Book a demo
+
+## See it with your own paper
+Tell us about your exams. In 30 minutes we'll show you the exam screen, proctoring, evaluation and reports, set up the way hiring & hr teams work.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Assessment Software for Training Institutes and Certification Bodies | Examezy
+URL: https://examezy.com/for/training-certification/
+
+- Home
+- / Who it's for
+- / Training & certification
+For training & certification
+
+# Assessments your certificates can stand on.
+Whether you run vocational batches, professional courses or a certification programme, Examezy gives you proctored exams, section cutoffs, evaluator workflows and reports that make your results defensible.
+Book a demo See the workflow
+
+Proctoring · Riya Kapoor · attempt review
+Flags 2 / 5
+1 face on device
+Faces are counted on the candidate's device. Snapshot every 60 s and at each flag. No video.
+
+- 00:00 Camera check-in
+- 12:41 Tab switch (1 of 3)
+- 27:09 No face for 6 s
+- 27:15 Face back in view
+- 41:52 2 faces detected
+
+Full screen enforced Copy & paste blocked Auto-submit after 5 flags
+
+Sound familiar?
+
+## What gets in the way today
+Results need to be defensible
+A certificate is only worth the assessment behind it. Unproctored, unaudited tests undermine the credential.
+
+Practical and theory are assessed in different places
+Objective theory in one tool, written answers on paper, scores in a spreadsheet.
+
+Batches across cities
+Trainers in different centres need the same paper, the same rules and one result sheet.
+
+How it works for you
+
+## Your exam cycle on Examezy
+
+- One exam standard across every centre
+- Reviewable proctoring evidence
+- Theory and written answers in one result
+- Reports ready to hand to candidates
+
+- 1 Set the paper Sections with cutoff marks, negative marking and random order; objective and long-answer questions together.
+- 2 Assign batches anywhere Same test for every centre, each with its own window if needed.
+- 3 Proctor Browser rules plus camera checks with snapshot timelines.
+- 4 Evaluate Auto-marking for objective parts; evaluators or AI for written answers, with release holds.
+- 5 Report Per-candidate report PDFs and bulk ZIPs; automations notify candidates on release.
+
+## The parts training & certification use most
+AI proctoring Evidence trail for every attempt. Evaluation & marking Evaluator access and release holds. Online exams Sections with cutoffs and strict timing. Results & analytics Report PDFs per candidate.
+Popular use cases
+Training & skill assessments College internals & semester exams
+
+## Questions training & certification ask
+Can't see yours? Ask us in the demo, or read the full FAQ .
+
+Does Examezy issue certificates? +
+Not from the assessment itself. Examezy gives you scores, section cutoffs and report PDFs; certificates are issued from your course or your existing process.
+
+Can I set a cutoff per section? +
+Yes, each section can carry cutoff marks.
+
+Is there a lockdown browser? +
+No. Integrity comes from full-screen enforcement, tab-switch limits, camera checks and snapshot timelines.
+
+Can trainers in different cities evaluate? +
+Yes. Evaluator access is set per assessment, by role or named user, and evaluation happens in the browser.
+
+Book a demo
+
+## See it with your own paper
+Tell us about your exams. In 30 minutes we'll show you the exam screen, proctoring, evaluation and reports, set up the way training & certification work.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# White-Label Test Platform for EdTech Companies and Test Publishers | Examezy
+URL: https://examezy.com/for/edtech-test-publishers/
+
+- Home
+- / Who it's for
+- / EdTech & test publishers
+For edtech & test publishers
+
+# Your brand on the test. Our engine underneath.
+Sell test series under your own name. Examezy runs on white-label portals with your domain and brand, with the question bank, mock-test engine, analytics and AI reports your learners expect from a serious test platform.
+Book a demo See the workflow
+
+Report · Full Mock 12 · Kabir Singh
+Released
+212
+of 300
+
+Rank
+14
+of 1,208
+
+Percentile
+98.9
+
+Accuracy
+79%
+
+Physics you 78 · class avg 61
+
+Chemistry you 64 · class avg 58
+
+Maths you 70 · class avg 52
+
+Correct 54 Incorrect 14 Skipped 7 Class average
+
+Sound familiar?
+
+## What gets in the way today
+Building a test engine is a distraction
+Timers, autosave, scale, marking rules, rank lists: it takes a year to build well and never stops needing work.
+
+Learners compare you to the big platforms
+Rank, percentile, detailed solutions and analytics are table stakes.
+
+Content scales slower than demand
+Writing thousands of quality questions takes time your team doesn't have.
+
+How it works for you
+
+## Your exam cycle on Examezy
+
+- A branded test platform without building one
+- Analytics on par with large test-prep apps
+- Content production sped up by AI
+- Re-engagement on autopilot
+
+- 1 Brand it Your domain, logo and colours on a white-label portal.
+- 2 Load your content Import from Word, digitise printed books, generate with AI from your material.
+- 3 Publish series Mocks open any time with fixed duration; practice sets untimed; live tests in a window.
+- 4 Delight learners Instant rank, percentile, option-wise class stats and AI reports with a learning path.
+- 5 Bring them back Automations message learners on new tests, reminders and results.
+
+## The parts edtech & test publishers use most
+Results & analytics Analytics learners compare you on. Question bank Your content, organised and reusable. AI question paper generator Grow the bank faster from your own books. Online exams Tested with 1,000 simultaneous test-takers.
+Popular use cases
+Mock test series Practice tests & homework Olympiads & talent search
+
+## Questions edtech & test publishers ask
+Can't see yours? Ask us in the demo, or read the full FAQ .
+
+Can we use our own domain? +
+Yes, through Vacademy's white-label portals with your domain and branding.
+
+Can learners buy test series inside the platform? +
+Selling courses and memberships is part of Vacademy; ask us in the demo how we'd set up paid access for your series. Fee collection is not part of the test registration page itself.
+
+How many learners can take a test at once? +
+We load-tested the full journey with 1,000 simultaneous test-takers on production with zero errors. Larger single-window events can be planned with us.
+
+Do learners get detailed solutions? +
+Yes. Question-wise review shows the correct answer, your explanation and what percentage of learners chose each option.
+
+Book a demo
+
+## See it with your own paper
+Tell us about your exams. In 30 minutes we'll show you the exam screen, proctoring, evaluation and reports, set up the way edtech & test publishers work.
+
+What do you want to run? (pick any) Online exams Proctored exams Paper / offline exams Evaluation & results Mock test series Hiring tests
+Full name Work email Phone +91+1+44+971+966+974+65+61+977+880+94 Your role Choose oneOwner / DirectorPrincipal / DeanExam controller / Academic headHR / Talent acquisitionTeacher / FacultyOtherInstitute / company Candidates per exam Not sure yetUnder 100100–500500–2,0002,000–10,000Over 10,000
+Anything we should know? (optional) Book my demo We usually reply within one working day. Your details stay with us.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam Use Cases: Mock Tests, Scholarship Tests, Hiring and More | Examezy
+URL: https://examezy.com/use-cases/
+
+- Home
+- / Use cases
+Use cases
+
+# Recipes for the exams you actually run.
+Step-by-step setups for the exams institutes run most: mock test series, scholarship and entrance tests, school and college exams, hiring tests, olympiads, practice, training and surveys.
+
+## Mock test series
+Mock test series that rehearse the real exam, not just the syllabus.
+See the setup
+
+## Scholarship & entrance tests
+A scholarship test that doubles as your best admissions campaign.
+See the setup
+
+## School unit tests & term exams
+Keep the paper exam. Lose the paperwork.
+See the setup
+
+## College internals & semester exams
+Internals and semester exams with an exam cell that can see everything.
+See the setup
+
+## Campus & lateral hiring tests
+From 2,000 applicants to a 50-person shortlist in an afternoon.
+See the setup
+
+## Olympiads & talent search
+An olympiad across a hundred schools, from one dashboard.
+See the setup
+
+## Practice tests & homework
+Practice that tells students what to practise next.
+See the setup
+
+## Training & skill assessments
+Know whether the training actually worked.
+See the setup
+
+## Surveys & feedback forms
+Feedback surveys in the same place as your exams.
+See the setup
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Run an Online Mock Test Series (JEE, NEET, CUET, Banking) | Examezy
+URL: https://examezy.com/use-cases/mock-test-series/
+
+- Home
+- / Use cases
+- / Mock test series
+Use case · Mock test series
+
+# Mock test series that rehearse the real exam, not just the syllabus.
+A mock is only useful if it feels like exam day and the analysis arrives while the student still remembers the paper. Here's the setup institutes use on Examezy.
+Book a demo Jump to the setup
+
+Leaderboard · All-India Mock 3 · 1,208 students
+CSV · PDF
+
+- 1 Kabir Singh 286/300 99.9
+- 2 Ananya Rao 281/300 99.8
+- 3 Mohd. Faiz 279/300 99.8
+- 4 Ishita Das 274/300 99.7
+- 5 Rohan Gupta 270/300 99.6
+Percentile shown per student Report ZIP
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Choose the Mock type Mocks stay open with a fixed duration, so students can write when they're ready. Use the Exam type for a live all-batch mock in a fixed window.
+- 2 Mirror the real paper's sections One section per subject, each with default marks and negative marking. Use numeric-answer questions where the real exam does.
+- 3 Lock the timing Set one duration for the paper, or per-section timers if your exam has them, and turn on auto-submit at time-out.
+- 4 Turn on integrity rules Full screen and tab-switch limits apply by default; add camera proctoring for all-India rank mocks.
+- 5 Release instantly Release on submission for self-paced mocks, or at the end of the window for live rank lists.
+- 6 Close the loop Students review every question with the explanation and see how the class answered; faculty use question insights for the next class.
+
+Sample configuration
+Assessment typeMock (self-paced) or Exam (live window)
+SectionsPhysics · Chemistry · Maths (or your exam's pattern)
+Marking+4 / −1 per section, numeric questions with exact answers
+Timing180 min overall, auto-submit
+OrderRandom question order within sections
+ResultsRelease after the window ends
+
+Tips from the field
+
+- Publish the analysis the same day: the value of a mock halves with every day of delay.
+- Add explanations to every question once; they serve every future batch.
+- Use reattempts sparingly; the first attempt is the honest data point.
+- Run a short practice set right after each mock on the chapters the batch got wrong.
+
+## Questions
+Popular with
+Coaching institutes EdTech & test publishers
+
+Can students retake a mock? +
+You can grant reattempts per student from the monitoring console, and students can request one.
+
+Can rank be calculated across centres? +
+Yes. Everyone who takes the same assessment is ranked together with percentile, whether they wrote at home or in a centre.
+
+What's the difference between Mock and Practice? +
+Mocks have a fixed duration; Practice tests are untimed. Both stay available rather than running in a fixed window.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Run an Online Scholarship Test or Admission Entrance Test | Examezy
+URL: https://examezy.com/use-cases/scholarship-entrance-tests/
+
+- Home
+- / Use cases
+- / Scholarship & entrance tests
+Use case · Scholarship & entrance tests
+
+# A scholarship test that doubles as your best admissions campaign.
+Scholarship and entrance tests bring hundreds of motivated students to you. The trick is capturing them properly, making sure they show up, and following up while the result is fresh.
+Book a demo Jump to the setup
+
+learn.yourinstitute.com/register?code=STAR-2026
+Open · 1,946 registered
+Star Scholarship Test 2026
+Sunday 9 Nov · 10:00–13:00 · Classes 8–12
+Full name
+Meera Joshi
+
+Class
+Class 10
+
+School
+St. Xavier's, Pune
+
+Target exam
+JEE
+
+Verify your phone
+OTP sent to +91 98•••• 4410
+4 8 1 9
+
+- Registration closes 8 Nov
+- Reminder on WhatsApp
+- Rank list after the test
+Register
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Make the test public Turn on open registration and build the form: name, class, school, city, target exam.
+- 2 Set two windows A registration window that runs for weeks, and an exam window on test day.
+- 3 Automate reminders Registration confirmation, starting-soon and started messages by WhatsApp, email or push.
+- 4 Keep it fair Full screen, tab-switch auto-submit, camera check-in for the scholarship round.
+- 5 Publish the rank list Release results with rank and percentile; automations send each student their result.
+- 6 Hand over to counselling Export registrants with form fields, score, rank and percentile for your admissions team.
+
+Sample configuration
+Assessment typeExam, public
+Registration window3 weeks before test day
+Exam windowTest day, 10:00–13:00
+ProctoringCamera Basic, record only
+ResultsRelease after the window ends
+Follow-upExport with rank, percentile and form fields
+
+Tips from the field
+
+- Ask for the minimum the counsellor needs: every extra field lowers registrations.
+- Share the link where your audience already is: school visits, WhatsApp groups, ads.
+- Follow up within 48 hours of results, while the student is still excited.
+
+## Questions
+Popular with
+Coaching institutes Schools Colleges & universities
+
+Do candidates need an account? +
+They register on the public page and verify by OTP, so you get real phone numbers.
+
+Can I charge a fee to register? +
+Not on the test registration page today; most institutes run scholarship tests free as a lead source.
+
+Can I see who registered but didn't take the test? +
+Yes, the monitoring console's Pending tab lists them, with reminders and an export.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How Schools Run Unit Tests and Term Exams with Less Checking | Examezy
+URL: https://examezy.com/use-cases/school-exams/
+
+- Home
+- / Use cases
+- / School unit tests & term exams
+Use case · School unit tests & term exams
+
+# Keep the paper exam. Lose the paperwork.
+Unit tests and term exams stay on paper, as they should. Examezy takes over everything around them: setting the paper, checking the copies and producing the reports.
+Book a demo Jump to the setup
+
+Evaluate · Class 10-B · Science term 1 · Roll 23
+Draft saved
+
+- Q3.Q4.3units missing1½
+Marks
+
+- Q1 2 / 2
+- Q2 1 / 2
+- Q3 3 / 3
+- Q4 1.5 / 3
+- Q5 — / 5
+Total 7.5 / 15
+Submit & release
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Set the paper Generate it from the textbook with chapter weightage, or import last year's paper from Word.
+- 2 Print sets Export two or more shuffled sets with roll-number fields and an answer key.
+- 3 Scan and upload Scan the copies and bulk upload them; AI matches each copy to the student.
+- 4 Check Teachers check on screen, or approve AI-drafted marks on red-pen checked copies.
+- 5 Release and report Release results; download every student's report PDF in one ZIP for the PTM.
+
+Sample configuration
+Assessment typePaper exam with uploaded answer sheets
+PaperSets A and B, shuffled, answer key
+EvaluationAI checking on, teacher review before release
+ResultsReleased manually after review
+ReportsBulk ZIP, one PDF per student
+
+Tips from the field
+
+- Scan at 200–300 dpi in black and white for the most reliable reading.
+- Ask students to write name and roll number clearly on the first page: matching depends on it.
+- Write a model answer for long questions; AI marking follows it closely.
+
+## Questions
+Popular with
+Schools
+
+Can AI check every subject? +
+AI checking reads handwriting, including maths, and marks against a rubric per question. Try it on your own copies in the demo; teachers always approve the marks.
+
+What if a copy can't be matched to a student? +
+It waits for a teacher to pick the student. The AI never guesses.
+
+Can we run online quizzes too? +
+Yes. Practice tests and homework run online on the same platform.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Internal Assessments and Semester Exams for Colleges | Examezy
+URL: https://examezy.com/use-cases/university-exams/
+
+- Home
+- / Use cases
+- / College internals & semester exams
+Use case · College internals & semester exams
+
+# Internals and semester exams with an exam cell that can see everything.
+Colleges need consistency across departments and evidence they can defend. This is how an exam cell runs internals and written semester papers on Examezy.
+Book a demo Jump to the setup
+
+Assessment dashboard · This month
+
+Live now
+3
+
+Attempts
+8,214
+
+Avg score
+61%
+
+To check
+146
+
+Submissions heatmap
+
+Follow up
+
+- Ananya R. 3 tests missed
+- Vivek P. Score down 22%
+- Zoya K. Not started
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Shared question banks Faculty add questions tagged by subject, unit and difficulty.
+- 2 Online internals Fixed window, section timers, random order, camera proctoring.
+- 3 Written papers Students upload answer scripts as PDFs, or the exam cell uploads scans.
+- 4 Evaluator access Set who evaluates each paper; evaluators mark on screen with remarks.
+- 5 Monitor the backlog The dashboard shows evaluation progress per evaluator and batch.
+- 6 Publish Release results with report PDFs; export marks as CSV.
+
+Sample configuration
+Assessment typeExam (internals) / Paper exam (written)
+ProctoringCamera Basic, auto-submit after 5 flags
+SectionsPart A objective, Part B long answer
+EvaluationAssigned evaluators, on-screen marking
+ExportsCSV marks, PDF reports
+
+Tips from the field
+
+- Use Part A objective questions so half the paper marks itself.
+- Use re-evaluation for answer-key corrections instead of editing marks by hand.
+- Review proctoring timelines only for flagged attempts.
+
+## Questions
+Popular with
+Colleges & universities Training & certification
+
+Can evaluators see only their assigned papers? +
+Evaluator access is set per assessment, by role or named user.
+
+Can marks be exported to our ERP? +
+Marks export as CSV with your chosen columns.
+
+Is there a pass/fail verdict? +
+Sections carry cutoff marks; overall pass/fail rules stay with your exam policy.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Run Online Campus Hiring and Lateral Hiring Tests | Examezy
+URL: https://examezy.com/use-cases/campus-hiring-tests/
+
+- Home
+- / Use cases
+- / Campus & lateral hiring tests
+Use case · Campus & lateral hiring tests
+
+# From 2,000 applicants to a 50-person shortlist in an afternoon.
+A two-section online test, aptitude and coding, filters a campus drive faster and more fairly than any CV screen. Here's the setup.
+Book a demo Jump to the setup
+
+Coding · Q2 · Two Sum · Python
+Run
+1 def two_sum(nums, target):
+2 seen = {}
+3 for i, n in enumerate(nums):
+4 if target - n in seen:
+5 return [seen[target - n], i]
+6 seen[n] = i
+7
+Hidden tests
+
+8 / 10 marks
+8 of 10 test cases passed
+Python JS C C++ Java Go
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Registration page College, degree, year, role. Share one link with every placement cell.
+- 2 Two sections Aptitude MCQs (30 min) and coding (60 min), switching locked.
+- 3 Proctoring Camera mandatory to start, auto-submit after 5 flags.
+- 4 Fixed window Everyone writes in the same window; results released at the end.
+- 5 Shortlist Sort by section scores and percentile; export with registration fields.
+- 6 Check before calling Open the proctoring timeline of each shortlisted candidate.
+
+Sample configuration
+Assessment typeExam, public
+SectionsAptitude (MCQ, 30 min) · Coding (2 problems, 60 min)
+Coding languagesPython, JavaScript, C, C++, Java, Go
+ProctoringCamera required, auto-submit after 5 flags
+ResultsReleased after window; rank list export
+
+Tips from the field
+
+- Use two medium coding problems rather than one hard one: partial marks separate candidates better.
+- Lock section switching so aptitude time can't be borrowed for coding.
+- Generate a fresh coding set per drive with AI to avoid leaked questions.
+
+## Questions
+Popular with
+Hiring & HR teams Colleges & universities
+
+Can we send different tests to different roles? +
+Yes. Create one assessment per role, each with its own registration page.
+
+Do candidates need to install anything? +
+No, everything runs in the browser.
+
+Can we detect copied code? +
+Not across candidates today; integrity comes from proctoring and shuffled order.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Conduct an Online Olympiad or Talent Search Exam | Examezy
+URL: https://examezy.com/use-cases/olympiads-talent-search/
+
+- Home
+- / Use cases
+- / Olympiads & talent search
+Use case · Olympiads & talent search
+
+# An olympiad across a hundred schools, from one dashboard.
+Olympiads and talent searches need reach, fairness and a credible rank list. Examezy brings registration, the exam, proctoring and results into one flow.
+Book a demo Jump to the setup
+
+Leaderboard · All-India Mock 3 · 1,208 students
+CSV · PDF
+
+- 1 Kabir Singh 286/300 99.9
+- 2 Ananya Rao 281/300 99.8
+- 3 Mohd. Faiz 279/300 99.8
+- 4 Ishita Das 274/300 99.7
+- 5 Rohan Gupta 270/300 99.6
+Percentile shown per student Report ZIP
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Open registration Fields for school, class and city; one link to share with every school.
+- 2 Class-wise papers One assessment per class group, each with its own registration page.
+- 3 Fair conditions Fixed window, random question order, full screen and camera check-in.
+- 4 Results Rank and percentile per paper; automations send each participant their result.
+- 5 School reports Export results with the school field to send each school its students' ranks.
+
+Sample configuration
+Assessment typeExam, public, one per class group
+QuestionsMCQ and numeric, auto-marked
+ProctoringFull screen + camera, record only
+ResultsReleased after the window, rank and percentile
+
+Tips from the field
+
+- Keep papers fully objective so results are instant and indisputable.
+- Use explanations: participants value learning from the paper as much as the rank.
+
+## Questions
+Popular with
+EdTech & test publishers Schools Coaching institutes
+
+Can participants write from home? +
+Yes, in any modern browser, with proctoring rules you choose.
+
+Can we issue certificates? +
+Examezy produces ranks and report PDFs; certificates are issued from your own process.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Practice Tests, Quizzes and Homework for Students | Examezy
+URL: https://examezy.com/use-cases/practice-homework/
+
+- Home
+- / Use cases
+- / Practice tests & homework
+Use case · Practice tests & homework
+
+# Practice that tells students what to practise next.
+Between big exams, students need short, frequent practice with instant feedback. Practice tests on Examezy are untimed, always open and marked the moment they're done.
+Book a demo Jump to the setup
+
+MCQ · single A B C D
+MCQ · multiple A B C D
+True / false True False
+Numeric 12.5
+One word mitochondria
+Long answer
+Coding def f(x):
+Passage-based Passage → 4 Q
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Generate the set Create a 15-question chapter set with AI from your notes or knowledge base.
+- 2 Make it Practice Untimed and always available; results released on submission.
+- 3 Add explanations Students learn from every wrong answer straight away.
+- 4 Read the reports The AI report gives each student strengths, misconceptions and a learning path.
+
+Sample configuration
+Assessment typePractice (untimed)
+Questions10–20 MCQ / numeric / one word
+ResultsReleased on submission
+ProctoringOff
+
+Tips from the field
+
+- Short and frequent beats long and rare for retention.
+- Use the class diagnostic to plan the next lesson's first 10 minutes.
+
+## Questions
+Popular with
+Schools Coaching institutes EdTech & test publishers
+
+Is homework separate from tests? +
+Homework is its own family in the dashboard, alongside exams, mocks, practice tests and surveys.
+
+Can tests sit inside a course? +
+Yes, assessments can be embedded as steps in a Vacademy course.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Employee Training Assessments and Skill Tests Online | Examezy
+URL: https://examezy.com/use-cases/training-assessments/
+
+- Home
+- / Use cases
+- / Training & skill assessments
+Use case · Training & skill assessments
+
+# Know whether the training actually worked.
+Pre- and post-training tests, skill checks and course-end assessments show what people learned. Examezy makes them quick to set up and easy to read.
+Book a demo Jump to the setup
+
+Question insights · Chemistry Unit 4
+218 attempts
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q4 needs a re-teach
+58% chose option B: most confused molarity with molality.
+
+Correct Incorrect Skipped
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Pre-test A short untimed practice test to baseline the batch.
+- 2 Post-test A timed exam with section cutoffs after the programme.
+- 3 Compare Question insights show which topics improved and which didn't.
+- 4 Report Per-person report PDFs and per-batch statistics for the L&D team.
+
+Sample configuration
+Pre-testPractice, 15 questions
+Post-testExam, 40 questions, section cutoffs
+ProctoringBrowser rules; camera for certification rounds
+ReportsReport PDFs, CSV exports
+
+Tips from the field
+
+- Reuse the same question bank for pre and post tests to measure real change.
+- Add long-answer scenario questions and let AI draft the marks.
+
+## Questions
+Popular with
+Training & certification Hiring & HR teams
+
+Can managers see results? +
+Report access is set per assessment, by role or named user.
+
+Can we brand the portal? +
+Yes, with Vacademy white-label portals.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Student Feedback Surveys and Course Evaluations Online | Examezy
+URL: https://examezy.com/use-cases/surveys-feedback/
+
+- Home
+- / Use cases
+- / Surveys & feedback forms
+Use case · Surveys & feedback forms
+
+# Feedback surveys in the same place as your exams.
+Run course feedback and satisfaction surveys with the same batches, reminders and reports you use for exams, instead of a separate forms tool.
+Book a demo Jump to the setup
+
+Question insights · Chemistry Unit 4
+218 attempts
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q4 needs a re-teach
+58% chose option B: most confused molarity with molality.
+
+Correct Incorrect Skipped
+
+The recipe
+
+## How to set it up on Examezy
+
+- 1 Choose Survey Untimed, no correct answers.
+- 2 Assign batches Send to the batches that just finished a course or term.
+- 3 Remind Pending tab and reminders for those who haven't answered.
+- 4 Read the report Option percentages, free-text answers and per-respondent views.
+
+Sample configuration
+Assessment typeSurvey
+QuestionsMCQ scales and long-answer comments
+ResultsSurvey report
+
+Tips from the field
+
+- Keep surveys under 10 questions.
+- Send right after the course ends, not weeks later.
+
+## Questions
+Popular with
+Colleges & universities Training & certification Schools
+
+Are survey responses anonymous? +
+Surveys are tied to learner accounts so you can see who responded; share results with teachers in aggregate.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Compare Examezy with Google Forms, Paper Exams and LMS Quizzes | Examezy
+URL: https://examezy.com/compare/
+
+- Home
+- / Compare
+Compare
+
+# Honest comparisons, including when not to switch.
+Honest comparisons of Examezy with the tools institutes usually start with: Google Forms, paper exams with Excel mark sheets, and LMS quiz modules.
+
+## Examezy vs Google Forms
+Google Forms is great for quick quizzes. Here's where it stops working for real exams (timers, sections, negative marking, proctoring, rank lists, written answers) and where Examezy picks up.
+Read the comparison
+
+## Examezy vs paper & spreadsheets
+Paper exams and Excel rank lists work, until they don't. Compare setting, checking, rank lists and analysis on paper with the same workflow on Examezy, including paper exams that stay on paper.
+Read the comparison
+
+## Examezy vs LMS quiz tools
+LMS quiz modules handle course quizzes. Compare them with a dedicated exam platform on exam-style interface, proctoring, paper exams, evaluation workflows, rank lists and analytics.
+Read the comparison
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Examezy vs Google Forms for Online Exams: An Honest Comparison | Examezy
+URL: https://examezy.com/compare/google-forms/
+
+- Home
+- / Compare
+- / Examezy vs Google Forms
+Compare
+
+# Google Forms is a great form. Your exam deserves an exam platform.
+Plenty of institutes start their online exams on Google Forms, and for a five-question class quiz it's fine. Here's an honest look at what changes when the exam matters.
+
+What matters | Examezy | Google Forms |
+
+Timer and auto-submit | Per test, section or question; auto-submit at time-out | No built-in timer (add-ons only) |
+Sections with own marks and negative marking | Yes, per section | Points per question; no negative marking |
+Question types | MCQ single/multiple, true/false, numeric, one word, long answer, coding, passage-based | Choice, checkbox, short and paragraph text, grids |
+Integrity | Full screen, tab-switch auto-submit, camera checks with snapshots | Locked mode only on managed Chromebooks |
+Dropped connection | Answers kept on the device and synced; attempts resumable | Progress is saved only for respondents signed in to Google |
+Rank and percentile | Automatic, in every student's report | Not available; export to Sheets and build it |
+Written / handwritten answers | On-screen checking with pen tools, AI checking | Read typed text yourself; file uploads need a Google sign-in |
+Question bank | Searchable bank, reuse across tests, AI generation | Copy forms or import questions manually |
+Reports | Student report PDFs, question insights, bulk ZIP, AI diagnostics | Summary charts per question |
+Price | Paid plans sized to your exams | Free |
+
+Based on publicly documented features as of October 2026. Tell us if something has changed.
+Stick with Google Forms when…
+
+- Quick, low-stakes class polls and quizzes
+- You need something in five minutes and results don't need ranks
+- Every student uses a school-managed Chromebook and you only need locked mode
+
+Move to Examezy when…
+
+- Exams with timers, sections and negative marking
+- Results that need rank, percentile and analysis
+- Proctoring for anything that counts
+- Written answers that need checking
+- A question bank you reuse every term
+Book a demo
+
+## Where Google Forms works well
+Forms is free, everyone knows it, and it's quick for a short check-for-understanding quiz. If that's all you need, keep using it.
+
+## Where it starts to hurt
+Real exams need a clock, sections, negative marking and fair conditions, and the result needs to mean something to the student: rank, percentile, which questions to revisit. Forms has none of this built in, so institutes bolt on timers, spreadsheets and manual rank lists, and the work moves to the teacher.
+
+## What changes on Examezy
+The exam behaves like the real one, the answers survive a bad connection, proctoring rules apply automatically, objective marks arrive instantly and written answers are checked on screen or by AI. Every student gets a report, and you get the class picture.
+
+## Questions
+Can I import my Google Forms quizzes? +
+Export your questions to a Word document and import them with markers, or paste them and let AI structure the paper.
+
+Is Examezy free like Google Forms? +
+No. Examezy is a paid platform sized to your exam volume. Book a demo for a quote; we can start with a pilot exam.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Examezy vs Paper Exams and Excel Mark Sheets | Examezy
+URL: https://examezy.com/compare/paper-and-spreadsheets/
+
+- Home
+- / Compare
+- / Examezy vs paper & spreadsheets
+Compare
+
+# Keep what works about paper. Fix everything around it.
+Paper exams are trusted for good reasons. The pain is everything around them: typing papers, checking stacks of copies, building mark sheets and finding out what went wrong. Here's the comparison.
+
+What matters | Examezy | Paper + spreadsheets |
+
+Setting the paper | Question bank, Word import, AI generation from your books | Typed from scratch in Word |
+Multiple sets | Shuffled sets and answer key exported automatically | Made by hand, error-prone |
+Checking copies | On-screen marking with pen tools, or AI-drafted marks | Hours per teacher per exam |
+Consistency | One rubric per question applied to every copy | Varies by teacher and by hour |
+Mark sheet and rank list | Automatic, with percentile | Typed into Excel, formulas maintained by hand |
+Student feedback | Report PDF, checked copy, question-wise review | A number on the copy |
+Class insight | Question insights and AI class diagnostic | Rarely done |
+
+Based on publicly documented features as of October 2026. Tell us if something has changed.
+Stick with Paper + spreadsheets when…
+
+- Very small classes where checking takes minutes
+- No scanner or phone-scanning available
+
+Move to Examezy when…
+
+- Copies take more than an evening to check
+- You want ranks, reports and insight without Excel
+- You run online tests too and want one result history
+Book a demo
+
+## Paper doesn't have to go
+Examezy is built for paper exams as much as online ones: print the paper in sets, scan the copies, check them on screen or with AI.
+
+## Where the hours go
+For most teachers the expensive part isn't the exam; it's the checking and the mark sheet afterwards. That's where Examezy saves the time.
+
+## Questions
+Do we need special scanners? +
+No. Any scanner or phone scanning app that produces PDFs works.
+
+Does Examezy read OMR sheets? +
+No. Examezy checks written answer sheets; it doesn't scan OMR bubble sheets.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Examezy vs LMS Quiz Modules (Moodle, Google Classroom) for Exams | Examezy
+URL: https://examezy.com/compare/lms-quizzes/
+
+- Home
+- / Compare
+- / Examezy vs LMS quiz tools
+Compare
+
+# A quiz module tests a course. An exam platform runs your exams.
+Most learning platforms ship a quiz tool, and for course-level checks it does the job. Exams ask for more: exam-style timing, proctoring, paper copies, evaluators and rank lists.
+
+What matters | Examezy | LMS quiz modules |
+
+Exam-style interface | Sections, palette, mark for review, timers | Varies; usually page-by-page quiz |
+Proctoring | Built in: full screen, tab-switch, camera checks | Usually via plugins or third parties |
+Paper exams | Print shuffled sets, upload sheets, check on screen | Typically not supported |
+AI checking of written answers | Handwritten and typed, teacher-approved | Rare |
+Rank and percentile | In every report | Rarely built in |
+Open registration tests | Public page with custom form and OTP | Users must be enrolled |
+
+Based on publicly documented features as of October 2026. Tell us if something has changed.
+Stick with LMS quiz modules when…
+
+- Quick checks inside a course
+- Your LMS already has the plugins you need
+
+Move to Examezy when…
+
+- Exams, mocks and scholarship tests that stand on their own
+- Paper and online exams in one result history
+- Proctoring and evaluator workflows without plugins
+Book a demo
+
+## Use both
+Examezy is part of Vacademy, so tests can sit inside courses too. Many institutes keep quick quizzes in the course and run every exam that matters on Examezy.
+
+## Questions
+Can Examezy tests sit inside a course? +
+Yes, on Vacademy assessments can be embedded as course steps.
+
+Does Examezy integrate with Moodle? +
+Not out of the box. Talk to us about your setup.
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Conduct an Online Exam: A 12-Step Checklist for Institutes | Examezy
+URL: https://examezy.com/blog/how-to-conduct-online-exam/
+
+- Home
+- / Blog
+- / How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Guides
+
+# How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+A practical checklist for conducting online exams: choosing the format, building the paper, timing, marking rules, proctoring, a dry run, exam-day monitoring, evaluation and publishing results.
+By the Examezy team · 15 October 2026· 8 min read
+
+## Key takeaways
+
+- Decide the format (live window, self-paced mock or practice) before you write a single question.
+- Mirror the real exam's sections, timing and marking so the result means something.
+- Run a dry run with five people a week before: it catches 90% of exam-day problems.
+- Plan the evaluation and result release up front, not after the exam closes.
+
+## Before the exam: decide the format
+Most online exam problems are decided long before exam day. The first choice is the format. A live exam runs in a fixed window, and everyone writes at the same time; this is right for internals, scholarship tests and anything ranked. A self-paced mock stays open with a fixed duration, which suits test series. A practice test is untimed and exists to teach, not to rank.
+Write the format down along with who is taking it, how results will be used, and who checks any written answers. Those four lines answer most of the questions your team will ask later.
+
+## The 12-step checklist
+
+- Fix the format: live window, self-paced mock or practice.
+- Build the paper from your question bank, an imported Word file or an AI draft you have reviewed.
+- Split it into sections that mirror the real exam, each with its own marks and negative marking.
+- Choose timing: one duration, per-section timers, or per-question timers, and whether time-out submits automatically.
+- Decide question order: shuffle within sections so neighbours see different orders.
+- Pick integrity rules: full screen and tab-switch limits at minimum; camera checks for anything ranked or certified.
+- Write the instructions: how long, how many sections, what happens on a tab switch, what to do if the internet drops.
+- Assign candidates by batch, or open a registration page for public tests.
+- Schedule reminders for the day before and an hour before.
+- Run a dry run with five people on different devices and networks.
+- On exam day, watch the Ongoing and Pending lists and remind no-shows.
+- Evaluate, review and release results on the schedule you announced.
+
+## Why the dry run matters
+A dry run with a handful of colleagues on phones, old laptops and patchy Wi-Fi will surface instruction gaps, wrong answer keys and timing mistakes while they are still cheap to fix. Ask each tester to switch tabs once and to turn their Wi-Fi off for thirty seconds, so you know exactly what candidates will see.
+
+## On exam day
+Keep one person on monitoring and one on candidate support. Most support requests are about camera permission, a browser that isn't up to date, or a candidate who started late. Have a short written answer ready for each.
+
+- Open the monitoring console 15 minutes before start.
+- Send a reminder to anyone in Pending five minutes after start.
+- Log every exception (a granted reattempt, a technical issue) in one place.
+
+## After the exam: evaluation and results
+Objective questions should be marked the moment the exam ends. For written answers, decide in advance who evaluates and by when. If you use AI to draft marks, budget time for teachers to review before release.
+Publish when you said you would. A result that arrives the same day is a learning moment; one that arrives two weeks later is just a number.
+
+Where Examezy fits
+Examezy covers every step above in one place: sections, timers, negative marking, shuffled order, full-screen and tab-switch rules, camera proctoring, batch or public registration, a live monitoring console, auto-marking, on-screen and AI evaluation, and release on your schedule.
+
+Book a demo
+
+## Frequently asked questions
+How long should an online exam be? +
+Match the real exam if you're rehearsing for one. For internal tests, 45 to 90 minutes keeps attention and limits connection risk.
+
+What if a student's internet drops? +
+Use a platform that saves answers on the device and syncs them, and tell students in the instructions what they'll see if the connection drops.
+
+On this page
+
+- Before the exam: decide the format
+- The 12-step checklist
+- Why the dry run matters
+- On exam day
+- After the exam: evaluation and results
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Read
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+Read
+Results
+Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates | Examezy
+URL: https://examezy.com/blog/online-exam-proctoring-guide/
+
+- Home
+- / Blog
+- / Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Proctoring
+
+# Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+An honest guide to online proctoring methods (browser rules, camera snapshots, AI face detection, live invigilators, lockdown browsers): what each catches, its cost to candidates, and how to choose.
+By the Examezy team · 15 October 2026· 8 min read
+
+## Key takeaways
+
+- Proctoring is a deterrent first and a detector second; visible rules prevent most cheating.
+- Every method has a cost: bandwidth, privacy, installation friction or human time.
+- Match the method to the stakes: practice tests need none, ranked exams need browser rules and camera checks.
+- Decide what a flag means before the exam, not after.
+
+## The main proctoring methods
+Method | What it catches | Cost to candidates |
+
+Browser rules (full screen, tab-switch limits, copy blocked) | Searching answers in another tab, copy-paste | Almost none |
+Camera snapshots | Someone else writing, a second person in the room | Camera permission; little bandwidth |
+On-device face detection | No face or multiple faces, in real time | Camera permission; runs locally |
+Continuous video recording | Most visible behaviour, for later review | High bandwidth, privacy concerns, review hours |
+Live human invigilators | Behaviour in real time, with judgement | Scheduling, cost, stable video connection |
+Lockdown browsers | Other apps and tabs entirely | Installation, device compatibility issues |
+
+No method catches everything. A phone below the camera's view defeats most of them. That's why proctoring works best as a visible deterrent combined with question design that makes copying less useful: shuffled order, application questions and a time limit that leaves no room to search.
+
+## Match the method to the stakes
+
+- Practice and homework: no proctoring. The point is learning.
+- Weekly tests and mocks: browser rules, with tab-switch auto-submit.
+- Ranked mocks, scholarship tests, internals: browser rules plus camera snapshots and face checks.
+- Certification and hiring: the above, with a camera required to start and a clear violation limit.
+
+## Decide what a flag means
+A flag isn't proof. Cameras lose focus, siblings walk past, Wi-Fi drops. Decide in advance whether flags auto-submit after a limit or only get recorded for a human to judge, and say so in the instructions. Candidates behave better when they know the rules, and you avoid arguments later.
+When you review, look at the timeline: one 'no face' event during a 90-minute exam is noise; a cluster of tab switches followed by a jump in correct answers deserves a conversation.
+
+## Privacy is part of fairness
+Streaming video from a teenager's bedroom is a big ask. Methods that run detection on the candidate's device and upload only occasional stills collect far less, which is easier to justify to parents and easier to store responsibly.
+
+Where Examezy fits
+Examezy's proctoring is deliberately light: full screen, tab-switch warnings with auto-submit on the third switch, copy and paste blocked, and optional camera proctoring that counts faces on the candidate's device and uploads small snapshots, never video. You choose auto-submit after 3, 5 or 10 flags, or record only.
+It doesn't offer a lockdown browser, ID matching or live invigilators. If you need those, we'll tell you so in the demo.
+
+Book a demo
+
+## Frequently asked questions
+Can online proctoring detect a phone? +
+Most camera-based methods can't reliably see a phone held below the camera. Use time limits and application questions to reduce what a phone can help with.
+
+Is AI proctoring legal in India? +
+Collecting images of candidates is personal data processing. Tell candidates what you collect and why, collect the minimum, and follow your institution's data policy.
+
+On this page
+
+- The main proctoring methods
+- Match the method to the stakes
+- Decide what a flag means
+- Privacy is part of fairness
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Read
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+Read
+Results
+Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Negative Marking Explained: How to Set It and When Not To | Examezy
+URL: https://examezy.com/blog/negative-marking-explained/
+
+- Home
+- / Blog
+- / Negative Marking Explained: How to Set It and When Not To
+Question papers
+
+# Negative Marking Explained: How to Set It and When Not To
+What negative marking is, how common schemes like +4/−1 and +1/−0.25 work, the maths of guessing, and when negative marking helps or hurts your test.
+By the Examezy team · 15 October 2026· 6 min read
+
+## Key takeaways
+
+- Negative marking deducts marks for wrong answers to discourage blind guessing.
+- With 4 options, a penalty of one-third of the marks makes a blind guess worth zero on average.
+- Use it when your real exam does, so students practise the decision to skip.
+- Leave it off for practice tests where you want students to attempt everything.
+
+## What negative marking is
+Negative marking takes marks away for a wrong answer and gives zero for a question left blank. It exists to make guessing a decision rather than a free lottery ticket.
+
+## The maths of guessing
+Take a 4-option MCQ worth +4 with a −1 penalty. A blind guess is right one time in four: the expected score is (¼ × 4) + (¾ × −1) = +0.25 per question. A small positive edge. If the student can eliminate one option, the odds become one in three: (⅓ × 4) + (⅔ × −1) = +0.67. Eliminating two options makes it +1.5.
+For a +1 / −0.25 scheme with 4 options, a blind guess is worth (¼ × 1) + (¾ × −0.25) ≈ +0.06: close to neutral. To make it exactly zero, the penalty has to be one-third of the marks (−0.33 on a 1-mark question), because the three wrong options must cancel the one right one.
+Expected marks per question attempted, by marking scheme.Scheme | Options | Blind guess (expected) | After eliminating one option |
+
++4 / −1 | 4 | +0.25 | +0.67 |
++1 / −0.25 | 4 | +0.06 | +0.17 |
++1 / −0.33 | 4 | 0.00 | +0.11 |
++2 / −0.5 | 4 | +0.13 | +0.33 |
+
+## When to use it, and when not to
+
+- Use it in mocks for exams that have it, so students practise the skip-or-attempt decision under time pressure.
+- Use it in ranked tests where lucky guesses would distort the rank list.
+- Skip it in practice tests and homework: you want every question attempted so you can see what they don't know.
+- Skip it for questions with many possible answers (numeric, one word) unless the real exam penalises them.
+
+## Teach the strategy, not just the rule
+The best use of negative marking in a mock is the analysis afterwards: how many marks did the student lose to wrong attempts, and in which section? A student losing 20 marks to guesses in one subject has a different problem from one who leaves 15 questions blank.
+
+Where Examezy fits
+On Examezy, negative marking is set per section, alongside default marks, cutoffs and question order, and every student's report shows marks gained and lost, accuracy and time by section.
+
+Book a demo
+
+On this page
+
+- What negative marking is
+- The maths of guessing
+- When to use it, and when not to
+- Teach the strategy, not just the rule
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Read
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Read
+Results
+Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# Rank vs Percentile in Test Series: What They Mean and How They're Calculated | Examezy
+URL: https://examezy.com/blog/rank-vs-percentile/
+
+- Home
+- / Blog
+- / Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Results
+
+# Rank vs Percentile in Test Series: What They Mean and How They're Calculated
+Rank and percentile explained for students and coaching institutes: how each is calculated, how ties work, why percentile travels between test sizes, and how to read both in a mock test report.
+By the Examezy team · 15 October 2026· 6 min read
+
+## Key takeaways
+
+- Percentage is about your marks; percentile is about the people below you.
+- Rank depends on how many people wrote; percentile lets you compare across test sizes.
+- Ties share a rank; how the next rank is numbered depends on the convention used.
+- Read percentile trends across mocks, not one mock in isolation.
+
+## Percentage, rank and percentile
+
+- Percentage: your marks as a share of the maximum. 180 out of 300 is 60%.
+- Rank: your position when everyone is sorted by marks. The topper is rank 1.
+- Percentile: the share of test-takers who scored at or below you (definitions vary slightly). A 95 percentile means you did as well as or better than 95% of the group.
+
+## A worked example
+Imagine 400 students write a mock. You score 182 and 360 students scored less than you. Using the common 'below me' definition, your percentile is 360 ÷ 400 × 100 = 90. If 39 students scored more than you, your rank is 40.
+Now imagine the same performance in a mock with 4,000 students. Your rank might be 400, which feels worse, but your percentile would still be around 90. That's why percentile is the better number to track across tests of different sizes.
+
+## How ties work
+Students with identical marks share a rank. Some systems then skip ranks (1, 2, 2, 4) and some don't (1, 2, 2, 3). Many test series break ties by time taken or by marks in a priority subject. Whatever convention you use, state it in the result notice.
+
+## How students should read the report
+
+- Track percentile across mocks; one test is noise, five is a trend.
+- Compare section-wise scores with the topper and the class average.
+- Look at the questions most of the class got right that you got wrong: they're the cheapest marks to win back.
+
+Where Examezy fits
+Every Examezy report shows score, rank and percentile, a comparison with the class average, highest and lowest, section-wise accuracy and time, and what percentage of the class chose each option on every question.
+
+Book a demo
+
+On this page
+
+- Percentage, rank and percentile
+- A worked example
+- How ties work
+- How students should read the report
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Read
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Read
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Make a Question Paper Blueprint (with a Weightage Table Template) | Examezy
+URL: https://examezy.com/blog/question-paper-blueprint/
+
+- Home
+- / Blog
+- / How to Make a Question Paper Blueprint (with a Weightage Table Template)
+Question papers
+
+# How to Make a Question Paper Blueprint (with a Weightage Table Template)
+A step-by-step guide to designing a question paper blueprint: unit weightage, question types, difficulty and cognitive levels, with a sample blueprint table you can copy.
+By the Examezy team · 15 October 2026· 7 min read
+
+## Key takeaways
+
+- A blueprint decides marks per unit, question type and difficulty before any question is written.
+- It's the single best protection against an unbalanced paper.
+- Write questions to fill the blueprint, not the other way round.
+- Keep the blueprint; it makes the next paper ten times faster.
+
+## What a blueprint is
+A blueprint is a table that says how many marks each unit carries, in what question types, at what difficulty or cognitive level. It turns 'set a paper on chapters 1 to 6' into a specification anyone could write questions against.
+
+## Five steps to a blueprint
+
+- List the units and decide each one's weightage, usually in proportion to teaching time or syllabus importance.
+- Choose the question types and their marks: for example, 1-mark MCQs, 2-mark short answers, 5-mark long answers.
+- Set the cognitive mix: roughly how much is recall, understanding, application and analysis.
+- Fill the grid: units down the side, question types across the top, marks in each cell, totals that add up.
+- Write or pick questions to fill each cell, and check the totals one last time.
+
+## A sample blueprint (40 marks)
+Marks per unit by question type. Adjust to your syllabus.Unit | MCQ (1) | Short (2) | Long (5) | Total |
+
+Unit 1 | 3 | 4 | 5 | 12 |
+Unit 2 | 2 | 2 | 5 | 9 |
+Unit 3 | 3 | 4 | 0 | 7 |
+Unit 4 | 2 | 0 | 5 | 7 |
+Unit 5 | 0 | 0 | 5 | 5 |
+Total | 10 | 10 | 20 | 40 |
+
+## Final checks before printing
+
+- Do the totals add up per row, per column and overall?
+- Is every unit tested in at least one question type?
+- Can a well-prepared student finish in the time allowed?
+- Are the answer key and model answers written?
+
+Where Examezy fits
+Examezy's AI paper generator starts from a plan: choose the syllabus and the weightage, see the plan, then generate. Questions from your knowledge base cite their source page, and the paper exports as a print-ready PDF, in shuffled sets with an answer key if you want.
+
+Book a demo
+
+On this page
+
+- What a blueprint is
+- Five steps to a blueprint
+- A sample blueprint (40 marks)
+- Final checks before printing
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Read
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Read
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How Schools Cut Answer-Sheet Checking Time Without Lowering Standards | Examezy
+URL: https://examezy.com/blog/reduce-answer-sheet-checking-time/
+
+- Home
+- / Blog
+- / How Schools Cut Answer-Sheet Checking Time Without Lowering Standards
+Evaluation
+
+# How Schools Cut Answer-Sheet Checking Time Without Lowering Standards
+Practical ways to reduce the hours teachers spend checking answer sheets: better papers, marking schemes, objective sections, on-screen marking and AI-drafted marks with teacher review.
+By the Examezy team · 15 October 2026· 7 min read
+
+## Key takeaways
+
+- The biggest saving comes before the exam: a clear marking scheme makes every copy faster.
+- Move recall questions into an objective section that marks itself.
+- Checking on screen removes the logistics of carrying, counting and totalling.
+- AI drafts are a first pass, not a verdict: teachers review and release.
+
+## Start with the marking scheme
+Teachers slow down when they have to decide what an answer deserves, copy after copy. A marking scheme that lists the points expected for each mark removes most of that hesitation, and it makes marks consistent between teachers.
+
+## Let the objective part mark itself
+Recall questions (definitions, facts, single-step calculations) can be MCQs or one-word answers taken online or on a separate sheet. A 20-mark objective section that marks itself halves the checking for a 40-mark paper.
+
+## Check on screen
+Scanning copies and checking them in the browser removes the bundle-carrying, the totalling and the transcription into a register. Marks are entered per question as you go, totals add themselves, and the student's checked copy is ready to share.
+
+## Use AI for the first pass
+AI can now read most handwriting, apply a rubric and draft marks with short feedback. Used well, it turns checking into reviewing: the teacher reads the AI's marks beside the answer and changes the ones that are wrong. Used badly, it publishes marks nobody looked at. Always keep a teacher between the AI and the student.
+
+- Write a model answer for every long question.
+- Scan clearly: flat pages, good light or a proper scanner.
+- Review flagged and borderline copies first.
+- Spot-check a sample of the rest before release.
+
+Where Examezy fits
+On Examezy, teachers check scanned copies on screen with pen, tick, cross and text tools, or turn on AI checking to get red-pen checked copies with draft marks per question. AI marks are always drafts; teachers review and release.
+
+Book a demo
+
+On this page
+
+- Start with the marking scheme
+- Let the objective part mark itself
+- Check on screen
+- Use AI for the first pass
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Read
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Read
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp
+
+
+---
+
+# How to Analyse a Mock Test: A Step-by-Step Method for Students | Examezy
+URL: https://examezy.com/blog/how-to-analyse-mock-test/
+
+- Home
+- / Blog
+- / How to Analyse a Mock Test: A Step-by-Step Method for Students
+Results
+
+# How to Analyse a Mock Test: A Step-by-Step Method for Students
+A method for analysing mock tests that actually raises scores: sort every question into four buckets, track silly mistakes, time per section, and turn the analysis into a plan before the next mock.
+By the Examezy team · 15 October 2026· 6 min read
+
+## Key takeaways
+
+- Spend as long analysing a mock as you spent writing it.
+- Sort every question into one of four buckets; each bucket has a different fix.
+- Silly mistakes are a pattern, not bad luck: log them.
+- End every analysis with three actions for the next mock.
+
+## The four buckets
+Bucket | What it means | The fix |
+
+Right, and confident | You know it | Nothing; move on |
+Right, but guessed | Lucky | Revise the concept as if you got it wrong |
+Wrong, but knew it | Silly mistake | Log the type: misread, calculation, rushed |
+Wrong or skipped, didn't know | Gap | Study the concept, then do 10 practice questions |
+
+## Look at time, not just marks
+Compare time spent per section with the marks you earned there. A section that took 40% of the time for 20% of the marks is costing you. Also look for questions where you spent several minutes and still got them wrong: those are the ones to skip next time.
+
+## Use the class data
+If most of the class got a question right and you didn't, that's an easy mark you gave away. If most got it wrong, don't panic: it was hard for everyone. The option-wise percentages in your report tell you which.
+
+## Turn it into three actions
+
+- One concept to study before the next mock.
+- One silly-mistake habit to fix (for example: underline what the question asks).
+- One time rule (for example: skip any question after two minutes on the first pass).
+
+Where Examezy fits
+Examezy reports give students the raw material for this method: question-wise review with explanations, time per section, what percentage of the class chose each option, and an AI report with strengths, misconceptions and a learning path.
+
+Book a demo
+
+On this page
+
+- The four buckets
+- Look at time, not just marks
+- Use the class data
+- Turn it into three actions
+Run your next exam on Examezy
+See question types, proctoring and reports in a 30-minute demo.
+Book a demo
+
+## Keep reading
+Guides
+How to Conduct an Online Exam: A 12-Step Checklist for Institutes
+Read
+Proctoring
+Online Exam Proctoring: What Works, What Doesn't, and What It Costs Candidates
+Read
+Question papers
+Negative Marking Explained: How to Set It and When Not To
+Read
+
+## Run your next exam on Examezy.
+Book a 30-minute demo. Send us a past paper beforehand and we'll show it running as an Examezy test: proctored, auto-marked and reported.
+
+Book a demo Chat on WhatsApp

@@ -1,0 +1,32 @@
+# Examezy
+
+> Examezy (examezy.com) is online exam and assessment software for coaching institutes, schools, colleges, hiring teams, training and certification bodies and edtech companies. Built by the team behind Vacademy (Vidyayatan Technologies LLP, India).
+
+Examezy runs the whole exam in one platform: create the paper (question bank, Word import, AI generation from your own material with source pages cited), schedule it (live window, self-paced mock, untimed practice, survey, or a paper exam with uploaded answer sheets), invite batches or open a public registration page, proctor it, evaluate it, and publish results with reports.
+
+## Facts
+
+- Question types: MCQ single correct, MCQ multiple correct, true/false, numeric, one word, long answer, coding (Python, JavaScript, C, C++, Java, Go; hidden test cases), plus passage-based versions of MCQ and numeric questions.
+- Timers per test, section or question; sections with their own marks, negative marking and cutoffs; random question order; auto-submit at time-out; reading time.
+- Answers autosave on the device and sync; interrupted attempts can be resumed.
+- Proctoring: forced full screen, tab-switch warnings with auto-submit on the 3rd switch, copy/paste/right-click blocked. Optional camera proctoring: check-in selfie, face counting on the candidate's device, small snapshots (no video streamed), violation limit of 3/5/10 flags or record only, review timeline.
+- Paper exams: print-ready PDFs in multiple shuffled sets with an answer key; answer sheets uploaded as PDFs; on-screen checking with pen tools.
+- AI checking of handwritten and typed long answers against a rubric; red-pen checked copies; bulk upload of up to 200 PDFs matched to students by name and roll number; marks are drafts until a teacher releases them. Standalone product and API: https://evalezy.com
+- Results: rank, percentile, class comparison, question-wise review, option-wise class stats, AI reports (misconceptions, Bloom's levels, learning path), question insights, bulk report ZIP, CSV/PDF exports, institute dashboard.
+- Scale: production load test with 1,000 simultaneous test-takers, zero errors.
+- Not offered: OMR scanning, lockdown browser, ID matching, psychometric tests, fee collection on test registration.
+- Pricing: quoted by candidate volume and exam calendar; AI checking paid per copy.
+
+## Key pages
+
+- [Online exams](https://examezy.com/online-exams/)
+- [AI proctoring](https://examezy.com/proctoring/)
+- [Question types](https://examezy.com/question-types/)
+- [Paper & offline exams](https://examezy.com/paper-exams/)
+- [Evaluation & marking](https://examezy.com/evaluation/)
+- [AI answer-sheet checking](https://examezy.com/ai-answer-sheet-checking/)
+- [Results & analytics](https://examezy.com/results-analytics/)
+- [All features](https://examezy.com/features/)
+- [FAQ](https://examezy.com/faq/)
+- [Book a demo](https://examezy.com/demo/)
+- [Full site text](https://examezy.com/llms-full.txt)
